@@ -7,16 +7,53 @@
 
 import SwiftUI
 
+
+
 struct ContentView: View {
+    @State var parkPlaetze : [ParkPlatz] = []
     var body: some View {
         VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundStyle(.tint)
-            Text("Hello, world!")
+            List{
+                ForEach(parkPlaetze, id: \.self){ parkPlatz in
+                    VStack{
+                        HStack{
+                            Text(parkPlatz.title)
+                            Text(parkPlatz.subtitle)
+                        }
+                        Text("Freie Plätze:")
+                        HStack{
+                            ForEach(parkPlatz.description.indices){
+                                Text(parkPlatz.description[$0])
+                            }
+                        }
+                    }
+                }
+            }
+        }.task {
+            fetchDataFromJSON()
         }
-        .padding()
+        
     }
+   
+    
+    func fetchDataFromJSON(){
+        guard let path = Bundle.main.path(forResource: "parking", ofType: "json") else{
+            print("konnte nicht gelanden werden")
+            return
+        }
+        
+        do{
+            let data = try Data(contentsOf: URL(filePath: path))
+            let response = try JSONDecoder().decode(ParkingInfo.self , from: data)
+            self.parkPlaetze = response.parkPlaetze
+            print(parkPlaetze)
+        }
+        catch{
+            print("Error : \(error)")
+            return
+        }
+    }
+    
 }
 
 #Preview {

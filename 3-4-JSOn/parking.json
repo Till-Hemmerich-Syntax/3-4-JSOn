@@ -1,0 +1,7285 @@
+{
+  "parking_lorry": [
+    {
+      "identifier": "DE-BY-000131",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "13.416122,48.415228999,13.416122,48.415228999",
+      "point": "13.416122,48.415228999",
+      "startLcPosition": "1",
+      "display_type": "PARKING",
+      "subtitle": "Vorstauraum Suben",
+      "title": "A3 | Linz",
+      "coordinate": {
+        "long": "13.416122",
+        "lat": "48.415228999"
+      },
+      "description": [
+        "PKW Stellplätze: 0",
+        "LKW Stellplätze: 65"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Autobahndirektion Südbayern",
+        "",
+        "Koordinaten: 13.416122,48.415228999"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Mülleimer",
+          "style": "",
+          "icon": "fa fa-trash"
+        },
+        {
+          "description": "Toilette vorhanden",
+          "style": "",
+          "icon": "almofont almo-restroom"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-BY-000130",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "13.375229,48.454832999,13.375229,48.454832999",
+      "point": "13.375229,48.454832999",
+      "startLcPosition": "2",
+      "display_type": "PARKING",
+      "subtitle": "Rottal W",
+      "title": "A3 | Linz",
+      "coordinate": {
+        "long": "13.375229",
+        "lat": "48.454832999"
+      },
+      "description": [
+        "PKW Stellplätze: 16",
+        "LKW Stellplätze: 18"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Autobahndirektion Südbayern",
+        "",
+        "Koordinaten: 13.375229,48.454832999"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        },
+        {
+          "description": "Toilette vorhanden",
+          "style": "",
+          "icon": "almofont almo-restroom"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-BY-000129",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "13.375342,48.461450999,13.375342,48.461450999",
+      "point": "13.375342,48.461450999",
+      "startLcPosition": "4",
+      "display_type": "PARKING",
+      "subtitle": "Rottal O",
+      "title": "A3 | Arnheim",
+      "coordinate": {
+        "long": "13.375342",
+        "lat": "48.461450999"
+      },
+      "description": [
+        "PKW Stellplätze: 18",
+        "LKW Stellplätze: 18"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Autobahndirektion Südbayern",
+        "",
+        "Koordinaten: 13.375342,48.461450999"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Toilette vorhanden",
+          "style": "",
+          "icon": "almofont almo-restroom"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-BY-000127",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "13.389303,48.558451999,13.389303,48.558451999",
+      "point": "13.389303,48.558451999",
+      "startLcPosition": "6",
+      "display_type": "PARKING",
+      "subtitle": "Hammerbach",
+      "title": "A3 | Linz",
+      "coordinate": {
+        "long": "13.389303",
+        "lat": "48.558451999"
+      },
+      "description": [
+        "PKW Stellplätze: 0",
+        "LKW Stellplätze: 6"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Autobahndirektion Südbayern",
+        "",
+        "Koordinaten: 13.389303,48.558451999"
+      ],
+      "lorryParkingFeatureIcons": []
+    },
+    {
+      "identifier": "DE-BY-000128",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "13.398354,48.546095999,13.398354,48.546095999",
+      "point": "13.398354,48.546095999",
+      "startLcPosition": "6",
+      "display_type": "PARKING",
+      "subtitle": "Brentermais ",
+      "title": "A3 | Arnheim",
+      "coordinate": {
+        "long": "13.398354",
+        "lat": "48.546095999"
+      },
+      "description": [
+        "PKW Stellplätze: 0",
+        "LKW Stellplätze: 7"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Autobahndirektion Südbayern",
+        "",
+        "Koordinaten: 13.398354,48.546095999"
+      ],
+      "lorryParkingFeatureIcons": []
+    },
+    {
+      "identifier": "DE-BY-000125",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "13.366575,48.588523999,13.366575,48.588523999",
+      "point": "13.366575,48.588523999",
+      "startLcPosition": "9",
+      "display_type": "PARKING",
+      "subtitle": "Donautal O",
+      "title": "A3 | Arnheim",
+      "coordinate": {
+        "long": "13.366575",
+        "lat": "48.588523999"
+      },
+      "description": [
+        "PKW Stellplätze: 41",
+        "LKW Stellplätze: 14"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Autobahn Tank & Rast Gruppe GmbH",
+        "",
+        "Koordinaten: 13.366575,48.588523999"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Raststätte/Restaurant",
+          "style": "",
+          "icon": "almofont almo-utensils"
+        },
+        {
+          "description": "Tankstelle",
+          "style": "",
+          "icon": "almofont almo-gaspump"
+        },
+        {
+          "description": "Geschäft",
+          "style": "",
+          "icon": "fa fa-shopping-basket"
+        },
+        {
+          "description": "WLAN",
+          "style": "",
+          "icon": "fa fa-wifi"
+        },
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        },
+        {
+          "description": "Mülleimer",
+          "style": "",
+          "icon": "fa fa-trash"
+        },
+        {
+          "description": "Dusche vorhanden",
+          "style": "",
+          "icon": "fa fa-shower"
+        },
+        {
+          "description": "Toilette vorhanden",
+          "style": "",
+          "icon": "almofont almo-restroom"
+        },
+        {
+          "description": "tollTerminal.notAvailable",
+          "style": "not-available",
+          "icon": "almofont almo-toll_terminal"
+        },
+        {
+          "description": "Geldautomat",
+          "style": "",
+          "icon": "fa fa-eur"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-BY-000126",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "13.365276,48.589511999,13.365276,48.589511999",
+      "point": "13.365276,48.589511999",
+      "startLcPosition": "9",
+      "display_type": "PARKING",
+      "subtitle": "Donautal W",
+      "title": "A3 | Linz",
+      "coordinate": {
+        "long": "13.365276",
+        "lat": "48.589511999"
+      },
+      "description": [
+        "PKW Stellplätze: 80",
+        "LKW Stellplätze: 66"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Autobahn Tank & Rast Gruppe GmbH",
+        "",
+        "Koordinaten: 13.365276,48.589511999"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Geschäft",
+          "style": "",
+          "icon": "fa fa-shopping-basket"
+        },
+        {
+          "description": "WLAN",
+          "style": "",
+          "icon": "fa fa-wifi"
+        },
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        },
+        {
+          "description": "Mülleimer",
+          "style": "",
+          "icon": "fa fa-trash"
+        },
+        {
+          "description": "Dusche vorhanden",
+          "style": "",
+          "icon": "fa fa-shower"
+        },
+        {
+          "description": "Toilette vorhanden",
+          "style": "",
+          "icon": "almofont almo-restroom"
+        },
+        {
+          "description": "Geldautomat",
+          "style": "",
+          "icon": "fa fa-eur"
+        },
+        {
+          "description": "Raststätte/Restaurant",
+          "style": "",
+          "icon": "almofont almo-utensils"
+        },
+        {
+          "description": "Tankstelle",
+          "style": "",
+          "icon": "almofont almo-gaspump"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-BY-000124",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "13.350648,48.620668999,13.350648,48.620668999",
+      "point": "13.350648,48.620668999",
+      "startLcPosition": "11",
+      "display_type": "PARKING",
+      "subtitle": "Eichet ",
+      "title": "A3 | Arnheim",
+      "coordinate": {
+        "long": "13.350648",
+        "lat": "48.620668999"
+      },
+      "description": [
+        "PKW Stellplätze: 0",
+        "LKW Stellplätze: 10"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Autobahndirektion Südbayern",
+        "",
+        "Koordinaten: 13.350648,48.620668999"
+      ],
+      "lorryParkingFeatureIcons": []
+    },
+    {
+      "identifier": "DE-BY-000123",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "13.299105,48.635666999,13.299105,48.635666999",
+      "point": "13.299105,48.635666999",
+      "startLcPosition": "12",
+      "display_type": "PARKING",
+      "subtitle": "Jägerhölzl ",
+      "title": "A3 | Linz",
+      "coordinate": {
+        "long": "13.299105",
+        "lat": "48.635666999"
+      },
+      "description": [
+        "PKW Stellplätze: 18",
+        "LKW Stellplätze: 7"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Autobahndirektion Südbayern",
+        "",
+        "Koordinaten: 13.299105,48.635666999"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Mülleimer",
+          "style": "",
+          "icon": "fa fa-trash"
+        },
+        {
+          "description": "Toilette vorhanden",
+          "style": "",
+          "icon": "almofont almo-restroom"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-BY-000122",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "13.294809,48.639444999,13.294809,48.639444999",
+      "point": "13.294809,48.639444999",
+      "startLcPosition": "14",
+      "display_type": "PARKING",
+      "subtitle": "Stierwaid",
+      "title": "A3 | Arnheim",
+      "coordinate": {
+        "long": "13.294809",
+        "lat": "48.639444999"
+      },
+      "description": [
+        "PKW Stellplätze: 29",
+        "LKW Stellplätze: 6"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Autobahndirektion Südbayern",
+        "",
+        "Koordinaten: 13.294809,48.639444999"
+      ],
+      "lorryParkingFeatureIcons": []
+    },
+    {
+      "identifier": "DE-BY-000121",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "13.24306,48.675539999,13.24306,48.675539999",
+      "point": "13.24306,48.675539999",
+      "startLcPosition": "16",
+      "display_type": "PARKING",
+      "subtitle": "Geißberg ",
+      "title": "A3 | Arnheim",
+      "coordinate": {
+        "long": "13.24306",
+        "lat": "48.675539999"
+      },
+      "description": [
+        "PKW Stellplätze: 0",
+        "LKW Stellplätze: 7"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Autobahndirektion Südbayern",
+        "",
+        "Koordinaten: 13.24306,48.675539999"
+      ],
+      "lorryParkingFeatureIcons": []
+    },
+    {
+      "identifier": "DE-BY-000120",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "13.236154,48.675630999,13.236154,48.675630999",
+      "point": "13.236154,48.675630999",
+      "startLcPosition": "16",
+      "display_type": "PARKING",
+      "subtitle": "Schaufelholz ",
+      "title": "A3 | Linz",
+      "coordinate": {
+        "long": "13.236154",
+        "lat": "48.675630999"
+      },
+      "description": [
+        "PKW Stellplätze: 0",
+        "LKW Stellplätze: 7"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Autobahndirektion Südbayern",
+        "",
+        "Koordinaten: 13.236154,48.675630999"
+      ],
+      "lorryParkingFeatureIcons": []
+    },
+    {
+      "identifier": "DE-BY-000119",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "13.154813,48.720222,13.154813,48.720222",
+      "point": "13.154813,48.720222",
+      "startLcPosition": "19",
+      "display_type": "PARKING",
+      "subtitle": "Scherbach ",
+      "title": "A3 | Arnheim",
+      "coordinate": {
+        "long": "13.154813",
+        "lat": "48.720222"
+      },
+      "description": [
+        "PKW Stellplätze: 0",
+        "LKW Stellplätze: 8"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Autobahndirektion Südbayern",
+        "",
+        "Koordinaten: 13.154813,48.720222"
+      ],
+      "lorryParkingFeatureIcons": []
+    },
+    {
+      "identifier": "DE-BY-000118",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "13.111908,48.740825,13.111908,48.740825",
+      "point": "13.111908,48.740825",
+      "startLcPosition": "20",
+      "display_type": "PARKING",
+      "subtitle": "Roßrückholz ",
+      "title": "A3 | Linz",
+      "coordinate": {
+        "long": "13.111908",
+        "lat": "48.740825"
+      },
+      "description": [
+        "PKW Stellplätze: 0",
+        "LKW Stellplätze: 7"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Autobahndirektion Südbayern",
+        "",
+        "Koordinaten: 13.111908,48.740825"
+      ],
+      "lorryParkingFeatureIcons": []
+    },
+    {
+      "identifier": "DE-BY-000117",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "13.106698,48.743583,13.106698,48.743583",
+      "point": "13.106698,48.743583",
+      "startLcPosition": "21",
+      "display_type": "PARKING",
+      "subtitle": "Birket ",
+      "title": "A3 | Arnheim",
+      "coordinate": {
+        "long": "13.106698",
+        "lat": "48.743583"
+      },
+      "description": [
+        "PKW Stellplätze: 0",
+        "LKW Stellplätze: 9"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Autobahndirektion Südbayern",
+        "",
+        "Koordinaten: 13.106698,48.743583"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        },
+        {
+          "description": "Mülleimer",
+          "style": "",
+          "icon": "fa fa-trash"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-BY-008568",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "13.067263,48.757882,13.067263,48.757882",
+      "point": "13.067263,48.757882",
+      "startLcPosition": "21",
+      "display_type": "PARKING",
+      "subtitle": "Ohetal Nord",
+      "title": "A3 | Arnheim",
+      "coordinate": {
+        "long": "13.067263",
+        "lat": "48.757882"
+      },
+      "description": [
+        "PKW Stellplätze: 18",
+        "LKW Stellplätze: 30"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Autobahndirektion Südbayern",
+        "",
+        "Koordinaten: 13.067263,48.757882"
+      ],
+      "lorryParkingFeatureIcons": []
+    },
+    {
+      "identifier": "DE-BY-008569",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "13.06587,48.757106,13.06587,48.757106",
+      "point": "13.06587,48.757106",
+      "startLcPosition": "22",
+      "display_type": "PARKING",
+      "subtitle": "Ohetal Süd",
+      "title": "A3 | Linz",
+      "coordinate": {
+        "long": "13.06587",
+        "lat": "48.757106"
+      },
+      "description": [
+        "PKW Stellplätze: 18",
+        "LKW Stellplätze: 30"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Autobahndirektion Südbayern",
+        "",
+        "Koordinaten: 13.06587,48.757106"
+      ],
+      "lorryParkingFeatureIcons": []
+    },
+    {
+      "identifier": "DE-BY-000113",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "13.010852,48.788429,13.010852,48.788429",
+      "point": "13.010852,48.788429",
+      "startLcPosition": "23",
+      "display_type": "PARKING",
+      "subtitle": "Konsee ",
+      "title": "A3 | Arnheim",
+      "coordinate": {
+        "long": "13.010852",
+        "lat": "48.788429"
+      },
+      "description": [
+        "PKW Stellplätze: 0",
+        "LKW Stellplätze: 10"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Autobahndirektion Südbayern",
+        "",
+        "Koordinaten: 13.010852,48.788429"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        },
+        {
+          "description": "Mülleimer",
+          "style": "",
+          "icon": "fa fa-trash"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-BY-000114",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "13.010395,48.787982,13.010395,48.787982",
+      "point": "13.010395,48.787982",
+      "startLcPosition": "23",
+      "display_type": "PARKING",
+      "subtitle": "Griesweiher",
+      "title": "A3 | Linz",
+      "coordinate": {
+        "long": "13.010395",
+        "lat": "48.787982"
+      },
+      "description": [
+        "PKW Stellplätze: 0",
+        "LKW Stellplätze: 9"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Autobahndirektion Südbayern",
+        "",
+        "Koordinaten: 13.010395,48.787982"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Mülleimer",
+          "style": "",
+          "icon": "fa fa-trash"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-BY-000112",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "12.98071,48.80313,12.98071,48.80313",
+      "point": "12.98071,48.80313",
+      "startLcPosition": "24",
+      "display_type": "PARKING",
+      "subtitle": "Isarmündung ",
+      "title": "A3 | Linz",
+      "coordinate": {
+        "long": "12.98071",
+        "lat": "48.80313"
+      },
+      "description": [
+        "PKW Stellplätze: 0",
+        "LKW Stellplätze: 11"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Autobahndirektion Südbayern",
+        "",
+        "Koordinaten: 12.98071,48.80313"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Mülleimer",
+          "style": "",
+          "icon": "fa fa-trash"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-BY-000110",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "12.85768,48.860149,12.85768,48.860149",
+      "point": "12.85768,48.860149",
+      "startLcPosition": "27",
+      "display_type": "PARKING",
+      "subtitle": "Kronawitt S",
+      "title": "A3 | Arnheim",
+      "coordinate": {
+        "long": "12.85768",
+        "lat": "48.860149"
+      },
+      "description": [
+        "PKW Stellplätze: 20",
+        "LKW Stellplätze: 8"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Autobahndirektion Südbayern",
+        "",
+        "Koordinaten: 12.85768,48.860149"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        },
+        {
+          "description": "Toilette vorhanden",
+          "style": "",
+          "icon": "almofont almo-restroom"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-BY-000111",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "12.85678,48.85947,12.85678,48.85947",
+      "point": "12.85678,48.85947",
+      "startLcPosition": "28",
+      "display_type": "PARKING",
+      "subtitle": "Geigenbühl Nord",
+      "title": "A3 | Linz",
+      "coordinate": {
+        "long": "12.85678",
+        "lat": "48.85947"
+      },
+      "description": [
+        "PKW Stellplätze: 20",
+        "LKW Stellplätze: 8"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Autobahndirektion Südbayern",
+        "",
+        "Koordinaten: 12.85678,48.85947"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        },
+        {
+          "description": "Toilette vorhanden",
+          "style": "",
+          "icon": "almofont almo-restroom"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-BY-000108",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "12.706375,48.931066,12.706375,48.931066",
+      "point": "12.706375,48.931066",
+      "startLcPosition": "30",
+      "display_type": "PARKING",
+      "subtitle": "Bayerischer Wald S",
+      "title": "A3 | Linz",
+      "coordinate": {
+        "long": "12.706375",
+        "lat": "48.931066"
+      },
+      "description": [
+        "PKW Stellplätze: 97",
+        "LKW Stellplätze: 30"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Autobahn Tank & Rast Gruppe GmbH",
+        "",
+        "Koordinaten: 12.706375,48.931066"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Mülleimer",
+          "style": "",
+          "icon": "fa fa-trash"
+        },
+        {
+          "description": "Raststätte/Restaurant",
+          "style": "",
+          "icon": "almofont almo-utensils"
+        },
+        {
+          "description": "Tankstelle",
+          "style": "",
+          "icon": "almofont almo-gaspump"
+        },
+        {
+          "description": "Kiosk/Geschäft",
+          "style": "",
+          "icon": "fa fa-shopping-basket"
+        },
+        {
+          "description": "Defibrillator",
+          "style": "",
+          "icon": "fa fa-heartbeat"
+        },
+        {
+          "description": "WLAN",
+          "style": "",
+          "icon": "fa fa-wifi"
+        },
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        },
+        {
+          "description": "Dusche vorhanden",
+          "style": "",
+          "icon": "fa fa-shower"
+        },
+        {
+          "description": "Toilette vorhanden",
+          "style": "",
+          "icon": "almofont almo-restroom"
+        },
+        {
+          "description": "Mautterminal",
+          "style": "",
+          "icon": "almofont almo-toll_terminal"
+        },
+        {
+          "description": "Warenautomat",
+          "style": "",
+          "icon": "almofont almo-vending_machine"
+        },
+        {
+          "description": "Geldautomat",
+          "style": "",
+          "icon": "fa fa-eur"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-BY-000107",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "12.706934,48.932167,12.706934,48.932167",
+      "point": "12.706934,48.932167",
+      "startLcPosition": "31",
+      "display_type": "PARKING",
+      "subtitle": "Bayerischer Wald N",
+      "title": "A3 | Arnheim",
+      "coordinate": {
+        "long": "12.706934",
+        "lat": "48.932167"
+      },
+      "description": [
+        "PKW Stellplätze: 169",
+        "LKW Stellplätze: 38"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Autobahn Tank & Rast Gruppe GmbH",
+        "",
+        "Koordinaten: 12.706934,48.932167"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Mülleimer",
+          "style": "",
+          "icon": "fa fa-trash"
+        },
+        {
+          "description": "Raststätte/Restaurant",
+          "style": "",
+          "icon": "almofont almo-utensils"
+        },
+        {
+          "description": "Tankstelle",
+          "style": "",
+          "icon": "almofont almo-gaspump"
+        },
+        {
+          "description": "Kiosk/Geschäft",
+          "style": "",
+          "icon": "fa fa-shopping-basket"
+        },
+        {
+          "description": "Defibrillator",
+          "style": "",
+          "icon": "fa fa-heartbeat"
+        },
+        {
+          "description": "WLAN",
+          "style": "",
+          "icon": "fa fa-wifi"
+        },
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        },
+        {
+          "description": "Spielplatz",
+          "style": "",
+          "icon": "almofont almo-playground"
+        },
+        {
+          "description": "Dusche vorhanden",
+          "style": "",
+          "icon": "fa fa-shower"
+        },
+        {
+          "description": "Toilette vorhanden",
+          "style": "",
+          "icon": "almofont almo-restroom"
+        },
+        {
+          "description": "Mautterminal",
+          "style": "",
+          "icon": "almofont almo-toll_terminal"
+        },
+        {
+          "description": "Geldautomat",
+          "style": "",
+          "icon": "fa fa-eur"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-BY-000105",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "12.419432,48.992498,12.419432,48.992498",
+      "point": "12.419432,48.992498",
+      "startLcPosition": "34",
+      "display_type": "PARKING",
+      "subtitle": "Wiesenttal S",
+      "title": "A3 | Linz",
+      "coordinate": {
+        "long": "12.419432",
+        "lat": "48.992498"
+      },
+      "description": [
+        "PKW Stellplätze: 19",
+        "LKW Stellplätze: 19"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Autobahndirektion Südbayern",
+        "",
+        "Koordinaten: 12.419432,48.992498"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        },
+        {
+          "description": "Toilette vorhanden",
+          "style": "",
+          "icon": "almofont almo-restroom"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-BY-000106",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "12.420681,48.993301,12.420681,48.993301",
+      "point": "12.420681,48.993301",
+      "startLcPosition": "34",
+      "display_type": "PARKING",
+      "subtitle": "Wellenbach N",
+      "title": "A3 | Arnheim",
+      "coordinate": {
+        "long": "12.420681",
+        "lat": "48.993301"
+      },
+      "description": [
+        "PKW Stellplätze: 32",
+        "LKW Stellplätze: 23"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Autobahndirektion Südbayern",
+        "",
+        "Koordinaten: 12.420681,48.993301"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        },
+        {
+          "description": "Toilette vorhanden",
+          "style": "",
+          "icon": "almofont almo-restroom"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-BY-000101",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "12.046971,49.001347,12.046971,49.001347",
+      "point": "12.046971,49.001347",
+      "startLcPosition": "46",
+      "display_type": "PARKING",
+      "subtitle": "Sparlberg N",
+      "title": "A3 | Arnheim",
+      "coordinate": {
+        "long": "12.046971",
+        "lat": "49.001347"
+      },
+      "description": [
+        "PKW Stellplätze: 0",
+        "LKW Stellplätze: 11"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Autobahndirektion Südbayern",
+        "",
+        "Koordinaten: 12.046971,49.001347"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-BY-000100",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "11.994297,49.008886,11.994297,49.008886",
+      "point": "11.994297,49.008886",
+      "startLcPosition": "47",
+      "display_type": "PARKING",
+      "subtitle": "Erlgrund N",
+      "title": "A3 | Arnheim",
+      "coordinate": {
+        "long": "11.994297",
+        "lat": "49.008886"
+      },
+      "description": [
+        "PKW Stellplätze: 0",
+        "LKW Stellplätze: 5"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Autobahndirektion Südbayern",
+        "",
+        "Koordinaten: 11.994297,49.008886"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        },
+        {
+          "description": "Toilette vorhanden",
+          "style": "",
+          "icon": "almofont almo-restroom"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-BY-000099",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "11.99282,49.008819,11.99282,49.008819",
+      "point": "11.99282,49.008819",
+      "startLcPosition": "48",
+      "display_type": "PARKING",
+      "subtitle": "Erlgrund S",
+      "title": "A3 | Linz",
+      "coordinate": {
+        "long": "11.99282",
+        "lat": "49.008819"
+      },
+      "description": [
+        "PKW Stellplätze: 0",
+        "LKW Stellplätze: 5"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Autobahndirektion Südbayern",
+        "",
+        "Koordinaten: 11.99282,49.008819"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        },
+        {
+          "description": "Toilette vorhanden",
+          "style": "",
+          "icon": "almofont almo-restroom"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-BY-000098",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "11.94524,49.032494,11.94524,49.032494",
+      "point": "11.94524,49.032494",
+      "startLcPosition": "50",
+      "display_type": "PARKING",
+      "subtitle": "Pollenried N",
+      "title": "A3 | Arnheim",
+      "coordinate": {
+        "long": "11.94524",
+        "lat": "49.032494"
+      },
+      "description": [
+        "PKW Stellplätze: 0",
+        "LKW Stellplätze: 8"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Autobahndirektion Südbayern",
+        "",
+        "Koordinaten: 11.94524,49.032494"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-BY-000096",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "11.872884,49.117327,11.872884,49.117327",
+      "point": "11.872884,49.117327",
+      "startLcPosition": "53",
+      "display_type": "PARKING",
+      "subtitle": "Hofschlag N",
+      "title": "A3 | Arnheim",
+      "coordinate": {
+        "long": "11.872884",
+        "lat": "49.117327"
+      },
+      "description": [
+        "PKW Stellplätze: 0",
+        "LKW Stellplätze: 6"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Autobahndirektion Südbayern",
+        "",
+        "Koordinaten: 11.872884,49.117327"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-BY-000095",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "11.869232,49.12897,11.869232,49.12897",
+      "point": "11.869232,49.12897",
+      "startLcPosition": "53",
+      "display_type": "PARKING",
+      "subtitle": "Lindaholz Süd",
+      "title": "A3 | Linz",
+      "coordinate": {
+        "long": "11.869232",
+        "lat": "49.12897"
+      },
+      "description": [
+        "PKW Stellplätze: 0",
+        "LKW Stellplätze: 5"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Autobahndirektion Südbayern",
+        "",
+        "Koordinaten: 11.869232,49.12897"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-BY-000094",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "11.831484,49.166558,11.831484,49.166558",
+      "point": "11.831484,49.166558",
+      "startLcPosition": "55",
+      "display_type": "PARKING",
+      "subtitle": "Buchhausen S",
+      "title": "A3 | Linz",
+      "coordinate": {
+        "long": "11.831484",
+        "lat": "49.166558"
+      },
+      "description": [
+        "PKW Stellplätze: 0",
+        "LKW Stellplätze: 5"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Autobahndirektion Südbayern",
+        "",
+        "Koordinaten: 11.831484,49.166558"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-BY-000093",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "11.828665,49.168223,11.828665,49.168223",
+      "point": "11.828665,49.168223",
+      "startLcPosition": "56",
+      "display_type": "PARKING",
+      "subtitle": "Buchhausen N",
+      "title": "A3 | Arnheim",
+      "coordinate": {
+        "long": "11.828665",
+        "lat": "49.168223"
+      },
+      "description": [
+        "PKW Stellplätze: 0",
+        "LKW Stellplätze: 5"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Autobahndirektion Südbayern",
+        "",
+        "Koordinaten: 11.828665,49.168223"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-BY-008559",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "11.749624,49.177613,11.749624,49.177613",
+      "point": "11.749624,49.177613",
+      "startLcPosition": "57",
+      "display_type": "PARKING",
+      "subtitle": "Höll",
+      "title": "A3 | Arnheim",
+      "coordinate": {
+        "long": "11.749624",
+        "lat": "49.177613"
+      },
+      "description": [
+        "PKW Stellplätze: 25",
+        "LKW Stellplätze: 39"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Autobahndirektion Südbayern",
+        "",
+        "Koordinaten: 11.749624,49.177613"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-BY-008558",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "11.74976,49.176475,11.74976,49.176475",
+      "point": "11.74976,49.176475",
+      "startLcPosition": "57",
+      "display_type": "PARKING",
+      "subtitle": "Hüttberg",
+      "title": "A3 | Linz",
+      "coordinate": {
+        "long": "11.74976",
+        "lat": "49.176475"
+      },
+      "description": [
+        "PKW Stellplätze: 25",
+        "LKW Stellplätze: 39"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Autobahndirektion Südbayern",
+        "",
+        "Koordinaten: 11.74976,49.176475"
+      ],
+      "lorryParkingFeatureIcons": []
+    },
+    {
+      "identifier": "DE-BY-000091",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "11.6878,49.185749,11.6878,49.185749",
+      "point": "11.6878,49.185749",
+      "startLcPosition": "60",
+      "display_type": "PARKING",
+      "subtitle": "Spitzig Berg",
+      "title": "A3 | Arnheim",
+      "coordinate": {
+        "long": "11.6878",
+        "lat": "49.185749"
+      },
+      "description": [
+        "PKW Stellplätze: 0",
+        "LKW Stellplätze: 5"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Autobahndirektion Nordbayern",
+        "",
+        "Koordinaten: 11.6878,49.185749"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-BY-000089",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "11.65255,49.2094,11.65255,49.2094",
+      "point": "11.65255,49.2094",
+      "startLcPosition": "62",
+      "display_type": "PARKING",
+      "subtitle": "Kalkhofen (wird aufgelassen) ",
+      "title": "A3 | Arnheim",
+      "coordinate": {
+        "long": "11.65255",
+        "lat": "49.2094"
+      },
+      "description": [
+        "PKW Stellplätze: 0",
+        "LKW Stellplätze: 6"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Autobahndirektion Nordbayern",
+        "",
+        "Koordinaten: 11.65255,49.2094"
+      ],
+      "lorryParkingFeatureIcons": []
+    },
+    {
+      "identifier": "DE-BY-000088",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "11.64555,49.222401,11.64555,49.222401",
+      "point": "11.64555,49.222401",
+      "startLcPosition": "62",
+      "display_type": "PARKING",
+      "subtitle": "Malerholz (wird aufgelassen)",
+      "title": "A3 | Linz",
+      "coordinate": {
+        "long": "11.64555",
+        "lat": "49.222401"
+      },
+      "description": [
+        "PKW Stellplätze: 0",
+        "LKW Stellplätze: 5"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Autobahndirektion Nordbayern",
+        "",
+        "Koordinaten: 11.64555,49.222401"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-BY-000087",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "11.61125,49.255299,11.61125,49.255299",
+      "point": "11.61125,49.255299",
+      "startLcPosition": "65",
+      "display_type": "PARKING",
+      "subtitle": "Deusmauerermoor ",
+      "title": "A3 | Arnheim",
+      "coordinate": {
+        "long": "11.61125",
+        "lat": "49.255299"
+      },
+      "description": [
+        "PKW Stellplätze: 0",
+        "LKW Stellplätze: 6"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Autobahndirektion Nordbayern",
+        "",
+        "Koordinaten: 11.61125,49.255299"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-BY-000085",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "11.602177,49.271388,11.602177,49.271388",
+      "point": "11.602177,49.271388",
+      "startLcPosition": "66",
+      "display_type": "PARKING",
+      "subtitle": "Jura O",
+      "title": "A3 | Arnheim",
+      "coordinate": {
+        "long": "11.602177",
+        "lat": "49.271388"
+      },
+      "description": [
+        "PKW Stellplätze: 83",
+        "LKW Stellplätze: 74"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Autobahndirektion Nordbayern",
+        "",
+        "Koordinaten: 11.602177,49.271388"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Raststätte/Restaurant",
+          "style": "",
+          "icon": "almofont almo-utensils"
+        },
+        {
+          "description": "Tankstelle",
+          "style": "",
+          "icon": "almofont almo-gaspump"
+        },
+        {
+          "description": "Kiosk/Geschäft",
+          "style": "",
+          "icon": "fa fa-shopping-basket"
+        },
+        {
+          "description": "Defibrillator",
+          "style": "",
+          "icon": "fa fa-heartbeat"
+        },
+        {
+          "description": "WLAN",
+          "style": "",
+          "icon": "fa fa-wifi"
+        },
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        },
+        {
+          "description": "Dusche vorhanden",
+          "style": "",
+          "icon": "fa fa-shower"
+        },
+        {
+          "description": "Toilette vorhanden",
+          "style": "",
+          "icon": "almofont almo-restroom"
+        },
+        {
+          "description": "Mautterminal",
+          "style": "",
+          "icon": "almofont almo-toll_terminal"
+        },
+        {
+          "description": "Warenautomat",
+          "style": "",
+          "icon": "almofont almo-vending_machine"
+        },
+        {
+          "description": "Geldautomat",
+          "style": "",
+          "icon": "fa fa-eur"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-BY-000086",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "11.600201,49.271688,11.600201,49.271688",
+      "point": "11.600201,49.271688",
+      "startLcPosition": "66",
+      "display_type": "PARKING",
+      "subtitle": "Jura W",
+      "title": "A3 | Linz",
+      "coordinate": {
+        "long": "11.600201",
+        "lat": "49.271688"
+      },
+      "description": [
+        "PKW Stellplätze: 47",
+        "LKW Stellplätze: 105"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Autobahndirektion Nordbayern",
+        "",
+        "Koordinaten: 11.600201,49.271688"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Dusche vorhanden",
+          "style": "",
+          "icon": "fa fa-shower"
+        },
+        {
+          "description": "Toilette vorhanden",
+          "style": "",
+          "icon": "almofont almo-restroom"
+        },
+        {
+          "description": "Tankstelle",
+          "style": "",
+          "icon": "almofont almo-gaspump"
+        },
+        {
+          "description": "Restaurant/Raststätte",
+          "style": "",
+          "icon": "almofont almo-utensils"
+        },
+        {
+          "description": "Kiosk/Geschäft",
+          "style": "",
+          "icon": "fa fa-shopping-basket"
+        },
+        {
+          "description": "Defibrillator",
+          "style": "",
+          "icon": "fa fa-heartbeat"
+        },
+        {
+          "description": "WLAN",
+          "style": "",
+          "icon": "fa fa-wifi"
+        },
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        },
+        {
+          "description": "Mautterminal",
+          "style": "",
+          "icon": "almofont almo-toll_terminal"
+        },
+        {
+          "description": "Warenautomat",
+          "style": "",
+          "icon": "almofont almo-vending_machine"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-BY-000083",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "11.5115,49.314301,11.5115,49.314301",
+      "point": "11.5115,49.314301",
+      "startLcPosition": "68",
+      "display_type": "PARKING",
+      "subtitle": "Rödlberg (wird aufgelassen)",
+      "title": "A3 | Arnheim",
+      "coordinate": {
+        "long": "11.5115",
+        "lat": "49.314301"
+      },
+      "description": [
+        "PKW Stellplätze: 0",
+        "LKW Stellplätze: 7"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Autobahndirektion Nordbayern",
+        "",
+        "Koordinaten: 11.5115,49.314301"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-BY-000082",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "11.49425,49.313702,11.49425,49.313702",
+      "point": "11.49425,49.313702",
+      "startLcPosition": "68",
+      "display_type": "PARKING",
+      "subtitle": "Wolfstein (wird aufgelassen)",
+      "title": "A3 | Linz",
+      "coordinate": {
+        "long": "11.49425",
+        "lat": "49.313702"
+      },
+      "description": [
+        "PKW Stellplätze: 0",
+        "LKW Stellplätze: 6"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Autobahndirektion Nordbayern",
+        "",
+        "Koordinaten: 11.49425,49.313702"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-BY-000080",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "11.436,49.35405,11.436,49.35405",
+      "point": "11.436,49.35405",
+      "startLcPosition": "70",
+      "display_type": "PARKING",
+      "subtitle": "Eichenäcker",
+      "title": "A3 | Linz",
+      "coordinate": {
+        "long": "11.436",
+        "lat": "49.35405"
+      },
+      "description": [
+        "PKW Stellplätze: 0",
+        "LKW Stellplätze: 5"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Autobahndirektion Nordbayern",
+        "",
+        "Koordinaten: 11.436,49.35405"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-BY-000079",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "11.40875,49.366501,11.40875,49.366501",
+      "point": "11.40875,49.366501",
+      "startLcPosition": "73",
+      "display_type": "PARKING",
+      "subtitle": "Klosterblick",
+      "title": "A3 | Arnheim",
+      "coordinate": {
+        "long": "11.40875",
+        "lat": "49.366501"
+      },
+      "description": [
+        "PKW Stellplätze: 0",
+        "LKW Stellplätze: 5"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Autobahndirektion Nordbayern",
+        "",
+        "Koordinaten: 11.40875,49.366501"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-BY-000078",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "11.3303,49.383301,11.3303,49.383301",
+      "point": "11.3303,49.383301",
+      "startLcPosition": "74",
+      "display_type": "PARKING",
+      "subtitle": "Vogelherd (wird aufgelassen)",
+      "title": "A3 | Linz",
+      "coordinate": {
+        "long": "11.3303",
+        "lat": "49.383301"
+      },
+      "description": [
+        "PKW Stellplätze: 0",
+        "LKW Stellplätze: 7"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Autobahndirektion Nordbayern",
+        "",
+        "Koordinaten: 11.3303,49.383301"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-BY-000077",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "11.27096,49.436052,11.27096,49.436052",
+      "point": "11.27096,49.436052",
+      "startLcPosition": "77",
+      "display_type": "PARKING",
+      "subtitle": "Ludergraben Ost (bisher Fuchsmühle)",
+      "title": "A3 | Arnheim",
+      "coordinate": {
+        "long": "11.27096",
+        "lat": "49.436052"
+      },
+      "description": [
+        "PKW Stellplätze: 32",
+        "LKW Stellplätze: 29"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Autobahndirektion Nordbayern",
+        "",
+        "Koordinaten: 11.27096,49.436052"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        },
+        {
+          "description": "Toilette vorhanden",
+          "style": "",
+          "icon": "almofont almo-restroom"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-BY-000076",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "11.269259,49.43557,11.269259,49.43557",
+      "point": "11.269259,49.43557",
+      "startLcPosition": "77",
+      "display_type": "PARKING",
+      "subtitle": "Ludergraben West",
+      "title": "A3 | Linz",
+      "coordinate": {
+        "long": "11.269259",
+        "lat": "49.43557"
+      },
+      "description": [
+        "PKW Stellplätze: 36",
+        "LKW Stellplätze: 29"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Autobahndirektion Nordbayern",
+        "",
+        "Koordinaten: 11.269259,49.43557"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        },
+        {
+          "description": "Toilette vorhanden",
+          "style": "",
+          "icon": "almofont almo-restroom"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-BY-000074",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "11.06667,49.525799,11.06667,49.525799",
+      "point": "11.06667,49.525799",
+      "startLcPosition": "82",
+      "display_type": "PARKING",
+      "subtitle": "Weißer Graben S",
+      "title": "A3 | Linz",
+      "coordinate": {
+        "long": "11.06667",
+        "lat": "49.525799"
+      },
+      "description": [
+        "PKW Stellplätze: 30",
+        "LKW Stellplätze: 12"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Autobahndirektion Nordbayern",
+        "",
+        "Koordinaten: 11.06667,49.525799"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        },
+        {
+          "description": "Toilette vorhanden",
+          "style": "",
+          "icon": "almofont almo-restroom"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-BY-000075",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "11.06705,49.526829,11.06705,49.526829",
+      "point": "11.06705,49.526829",
+      "startLcPosition": "83",
+      "display_type": "PARKING",
+      "subtitle": "Weißer Graben N",
+      "title": "A3 | Arnheim",
+      "coordinate": {
+        "long": "11.06705",
+        "lat": "49.526829"
+      },
+      "description": [
+        "PKW Stellplätze: 30",
+        "LKW Stellplätze: 12"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Autobahndirektion Nordbayern",
+        "",
+        "Koordinaten: 11.06705,49.526829"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Toilette vorhanden",
+          "style": "",
+          "icon": "almofont almo-restroom"
+        },
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-BY-000071",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "10.929751,49.580976,10.929751,49.580976",
+      "point": "10.929751,49.580976",
+      "startLcPosition": "86",
+      "display_type": "PARKING",
+      "subtitle": "Aurach N",
+      "title": "A3 | Arnheim",
+      "coordinate": {
+        "long": "10.929751",
+        "lat": "49.580976"
+      },
+      "description": [
+        "PKW Stellplätze: 110",
+        "LKW Stellplätze: 84"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Autobahndirektion Nordbayern",
+        "",
+        "Koordinaten: 10.929751,49.580976"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Dusche vorhanden",
+          "style": "",
+          "icon": "fa fa-shower"
+        },
+        {
+          "description": "Toilette vorhanden",
+          "style": "",
+          "icon": "almofont almo-restroom"
+        },
+        {
+          "description": "Spielplatz",
+          "style": "",
+          "icon": "almofont almo-playground"
+        },
+        {
+          "description": "Kiosk/Geschäft",
+          "style": "",
+          "icon": "fa fa-shopping-basket"
+        },
+        {
+          "description": "Mautterminal",
+          "style": "",
+          "icon": "almofont almo-toll_terminal"
+        },
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        },
+        {
+          "description": "Raststätte/Restaurant",
+          "style": "",
+          "icon": "almofont almo-utensils"
+        },
+        {
+          "description": "Warenautomat",
+          "style": "",
+          "icon": "almofont almo-vending_machine"
+        },
+        {
+          "description": "Tankstelle",
+          "style": "",
+          "icon": "almofont almo-gaspump"
+        },
+        {
+          "description": "WLAN",
+          "style": "",
+          "icon": "fa fa-wifi"
+        },
+        {
+          "description": "Defibrillator",
+          "style": "",
+          "icon": "fa fa-heartbeat"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-BY-000072",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "10.926532,49.581435,10.926532,49.581435",
+      "point": "10.926532,49.581435",
+      "startLcPosition": "87",
+      "display_type": "PARKING",
+      "subtitle": "Aurach S",
+      "title": "A3 | Linz",
+      "coordinate": {
+        "long": "10.926532",
+        "lat": "49.581435"
+      },
+      "description": [
+        "PKW Stellplätze: 82",
+        "LKW Stellplätze: 56"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Autobahndirektion Nordbayern",
+        "",
+        "Koordinaten: 10.926532,49.581435"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Toilette vorhanden",
+          "style": "",
+          "icon": "almofont almo-restroom"
+        },
+        {
+          "description": "Spielplatz",
+          "style": "",
+          "icon": "almofont almo-playground"
+        },
+        {
+          "description": "Kiosk/Geschäft",
+          "style": "",
+          "icon": "fa fa-shopping-basket"
+        },
+        {
+          "description": "Mautterminal",
+          "style": "",
+          "icon": "almofont almo-toll_terminal"
+        },
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        },
+        {
+          "description": "Raststätte/Restaurant",
+          "style": "",
+          "icon": "almofont almo-utensils"
+        },
+        {
+          "description": "Warenautomat",
+          "style": "",
+          "icon": "almofont almo-vending_machine"
+        },
+        {
+          "description": "Tankstelle",
+          "style": "",
+          "icon": "almofont almo-gaspump"
+        },
+        {
+          "description": "WLAN",
+          "style": "",
+          "icon": "fa fa-wifi"
+        },
+        {
+          "description": "Defibrillator",
+          "style": "",
+          "icon": "fa fa-heartbeat"
+        },
+        {
+          "description": "Dusche vorhanden",
+          "style": "",
+          "icon": "fa fa-shower"
+        },
+        {
+          "description": "Geldautomat",
+          "style": "",
+          "icon": "fa fa-eur"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-BY-000069",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "10.92025,49.620701,10.92025,49.620701",
+      "point": "10.92025,49.620701",
+      "startLcPosition": "88",
+      "display_type": "PARKING",
+      "subtitle": "Lachgraben",
+      "title": "A3 | Linz",
+      "coordinate": {
+        "long": "10.92025",
+        "lat": "49.620701"
+      },
+      "description": [
+        "PKW Stellplätze: 0",
+        "LKW Stellplätze: 5"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Autobahndirektion Nordbayern",
+        "",
+        "Koordinaten: 10.92025,49.620701"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-BY-000070",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "10.9283,49.605949,10.9283,49.605949",
+      "point": "10.9283,49.605949",
+      "startLcPosition": "88",
+      "display_type": "PARKING",
+      "subtitle": "Kleinauweiher",
+      "title": "A3 | Arnheim",
+      "coordinate": {
+        "long": "10.9283",
+        "lat": "49.605949"
+      },
+      "description": [
+        "PKW Stellplätze: 0",
+        "LKW Stellplätze: 5"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Autobahndirektion Nordbayern",
+        "",
+        "Koordinaten: 10.9283,49.605949"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-BY-000068",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "10.90785,49.645351,10.90785,49.645351",
+      "point": "10.90785,49.645351",
+      "startLcPosition": "91",
+      "display_type": "PARKING",
+      "subtitle": "Röhrhölzer",
+      "title": "A3 | Arnheim",
+      "coordinate": {
+        "long": "10.90785",
+        "lat": "49.645351"
+      },
+      "description": [
+        "PKW Stellplätze: 0",
+        "LKW Stellplätze: 5"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Autobahndirektion Nordbayern",
+        "",
+        "Koordinaten: 10.90785,49.645351"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-BY-000067",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "10.895051,49.657181,10.895051,49.657181",
+      "point": "10.895051,49.657181",
+      "startLcPosition": "91",
+      "display_type": "PARKING",
+      "subtitle": "Geierbusch",
+      "title": "A3 | Linz",
+      "coordinate": {
+        "long": "10.895051",
+        "lat": "49.657181"
+      },
+      "description": [
+        "PKW Stellplätze: 0",
+        "LKW Stellplätze: 4"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Autobahndirektion Nordbayern",
+        "",
+        "Koordinaten: 10.895051,49.657181"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-BY-000065",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "10.8794,49.668652,10.8794,49.668652",
+      "point": "10.8794,49.668652",
+      "startLcPosition": "92",
+      "display_type": "PARKING",
+      "subtitle": "Brandweiher West",
+      "title": "A3 | Linz",
+      "coordinate": {
+        "long": "10.8794",
+        "lat": "49.668652"
+      },
+      "description": [
+        "PKW Stellplätze: 0",
+        "LKW Stellplätze: 6"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Autobahndirektion Nordbayern",
+        "",
+        "Koordinaten: 10.8794,49.668652"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-BY-000066",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "10.882672,49.667673,10.882672,49.667673",
+      "point": "10.882672,49.667673",
+      "startLcPosition": "92",
+      "display_type": "PARKING",
+      "subtitle": "Brandweiher Ost",
+      "title": "A3 | Arnheim",
+      "coordinate": {
+        "long": "10.882672",
+        "lat": "49.667673"
+      },
+      "description": [
+        "PKW Stellplätze: 0",
+        "LKW Stellplätze: 7"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Autobahndirektion Nordbayern",
+        "",
+        "Koordinaten: 10.882672,49.667673"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        },
+        {
+          "description": "Toilette vorhanden",
+          "style": "",
+          "icon": "almofont almo-restroom"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-BY-000064",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "10.866865,49.679319,10.866865,49.679319",
+      "point": "10.866865,49.679319",
+      "startLcPosition": "93",
+      "display_type": "PARKING",
+      "subtitle": "Seeleite W",
+      "title": "A3 | Linz",
+      "coordinate": {
+        "long": "10.866865",
+        "lat": "49.679319"
+      },
+      "description": [
+        "PKW Stellplätze: 0",
+        "LKW Stellplätze: 4"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Autobahndirektion Nordbayern",
+        "",
+        "Koordinaten: 10.866865,49.679319"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-BY-000061",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "10.8438,49.712151,10.8438,49.712151",
+      "point": "10.8438,49.712151",
+      "startLcPosition": "96",
+      "display_type": "PARKING",
+      "subtitle": "Steinknuck",
+      "title": "A3 | Linz",
+      "coordinate": {
+        "long": "10.8438",
+        "lat": "49.712151"
+      },
+      "description": [
+        "PKW Stellplätze: 0",
+        "LKW Stellplätze: 6"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Autobahndirektion Nordbayern",
+        "",
+        "Koordinaten: 10.8438,49.712151"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-BY-000060",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "10.83115,49.7211,10.83115,49.7211",
+      "point": "10.83115,49.7211",
+      "startLcPosition": "98",
+      "display_type": "PARKING",
+      "subtitle": "Vögelsacker",
+      "title": "A3 | Arnheim",
+      "coordinate": {
+        "long": "10.83115",
+        "lat": "49.7211"
+      },
+      "description": [
+        "PKW Stellplätze: 0",
+        "LKW Stellplätze: 5"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Autobahndirektion Nordbayern",
+        "",
+        "Koordinaten: 10.83115,49.7211"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-BY-000059",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "10.80725,49.735001,10.80725,49.735001",
+      "point": "10.80725,49.735001",
+      "startLcPosition": "99",
+      "display_type": "PARKING",
+      "subtitle": "Limbacher Leiten",
+      "title": "A3 | Linz",
+      "coordinate": {
+        "long": "10.80725",
+        "lat": "49.735001"
+      },
+      "description": [
+        "PKW Stellplätze: 0",
+        "LKW Stellplätze: 5"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Autobahndirektion Nordbayern",
+        "",
+        "Koordinaten: 10.80725,49.735001"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-BY-000058",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "10.78281,49.738491,10.78281,49.738491",
+      "point": "10.78281,49.738491",
+      "startLcPosition": "101",
+      "display_type": "PARKING",
+      "subtitle": "Glöcklein",
+      "title": "A3 | Arnheim",
+      "coordinate": {
+        "long": "10.78281",
+        "lat": "49.738491"
+      },
+      "description": [
+        "PKW Stellplätze: 0",
+        "LKW Stellplätze: 6"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Autobahndirektion Nordbayern",
+        "",
+        "Koordinaten: 10.78281,49.738491"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-BY-000057",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "10.7804,49.737801,10.7804,49.737801",
+      "point": "10.7804,49.737801",
+      "startLcPosition": "101",
+      "display_type": "PARKING",
+      "subtitle": "Flurholz",
+      "title": "A3 | Linz",
+      "coordinate": {
+        "long": "10.7804",
+        "lat": "49.737801"
+      },
+      "description": [
+        "PKW Stellplätze: 0",
+        "LKW Stellplätze: 7"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Autobahndirektion Nordbayern",
+        "",
+        "Koordinaten: 10.7804,49.737801"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-BY-000055",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "10.728537,49.732144,10.728537,49.732144",
+      "point": "10.728537,49.732144",
+      "startLcPosition": "102",
+      "display_type": "PARKING",
+      "subtitle": "Steigerwald N",
+      "title": "A3 | Arnheim",
+      "coordinate": {
+        "long": "10.728537",
+        "lat": "49.732144"
+      },
+      "description": [
+        "PKW Stellplätze: 0",
+        "LKW Stellplätze: 94"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Autobahndirektion Nordbayern",
+        "",
+        "Koordinaten: 10.728537,49.732144"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Toilette vorhanden",
+          "style": "",
+          "icon": "almofont almo-restroom"
+        },
+        {
+          "description": "Mautterminal",
+          "style": "",
+          "icon": "almofont almo-toll_terminal"
+        },
+        {
+          "description": "Raststätte/Restaurant",
+          "style": "",
+          "icon": "almofont almo-utensils"
+        },
+        {
+          "description": "Tankstelle",
+          "style": "",
+          "icon": "almofont almo-gaspump"
+        },
+        {
+          "description": "Kiosk/Geschäft",
+          "style": "",
+          "icon": "fa fa-shopping-basket"
+        },
+        {
+          "description": "Defibrillator",
+          "style": "",
+          "icon": "fa fa-heartbeat"
+        },
+        {
+          "description": "WLAN",
+          "style": "",
+          "icon": "fa fa-wifi"
+        },
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        },
+        {
+          "description": "Spielplatz",
+          "style": "",
+          "icon": "almofont almo-playground"
+        },
+        {
+          "description": "Mülleimer",
+          "style": "",
+          "icon": "fa fa-trash"
+        },
+        {
+          "description": "Dusche vorhanden",
+          "style": "",
+          "icon": "fa fa-shower"
+        },
+        {
+          "description": "Warenautomat",
+          "style": "",
+          "icon": "almofont almo-vending_machine"
+        },
+        {
+          "description": "Geldautomat",
+          "style": "",
+          "icon": "fa fa-eur"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-BY-000056",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "10.724032,49.730785,10.724032,49.730785",
+      "point": "10.724032,49.730785",
+      "startLcPosition": "103",
+      "display_type": "PARKING",
+      "subtitle": "Steigerwald S",
+      "title": "A3 | Linz",
+      "coordinate": {
+        "long": "10.724032",
+        "lat": "49.730785"
+      },
+      "description": [
+        "PKW Stellplätze: 0",
+        "LKW Stellplätze: 236"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Autobahndirektion Nordbayern",
+        "",
+        "Koordinaten: 10.724032,49.730785"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Motel/Hotel",
+          "style": "",
+          "icon": "almofont almo-hotel"
+        },
+        {
+          "description": "Raststätte/Restaurant",
+          "style": "",
+          "icon": "almofont almo-utensils"
+        },
+        {
+          "description": "Tankstelle",
+          "style": "",
+          "icon": "almofont almo-gaspump"
+        },
+        {
+          "description": "Kiosk/Geschäft",
+          "style": "",
+          "icon": "fa fa-shopping-basket"
+        },
+        {
+          "description": "Defibrillator",
+          "style": "",
+          "icon": "fa fa-heartbeat"
+        },
+        {
+          "description": "WLAN",
+          "style": "",
+          "icon": "fa fa-wifi"
+        },
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        },
+        {
+          "description": "Spielplatz",
+          "style": "",
+          "icon": "almofont almo-playground"
+        },
+        {
+          "description": "Mülleimer",
+          "style": "",
+          "icon": "fa fa-trash"
+        },
+        {
+          "description": "Dusche vorhanden",
+          "style": "",
+          "icon": "fa fa-shower"
+        },
+        {
+          "description": "Toilette vorhanden",
+          "style": "",
+          "icon": "almofont almo-restroom"
+        },
+        {
+          "description": "Mautterminal",
+          "style": "",
+          "icon": "almofont almo-toll_terminal"
+        },
+        {
+          "description": "Warenautomat",
+          "style": "",
+          "icon": "almofont almo-vending_machine"
+        },
+        {
+          "description": "Geldautomat",
+          "style": "",
+          "icon": "fa fa-eur"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-BY-000054",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "10.6832,49.730701,10.6832,49.730701",
+      "point": "10.6832,49.730701",
+      "startLcPosition": "103",
+      "display_type": "PARKING",
+      "subtitle": "Schwarze Föhre",
+      "title": "A3 | Linz",
+      "coordinate": {
+        "long": "10.6832",
+        "lat": "49.730701"
+      },
+      "description": [
+        "PKW Stellplätze: 0",
+        "LKW Stellplätze: 5"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Autobahndirektion Nordbayern",
+        "",
+        "Koordinaten: 10.6832,49.730701"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-BY-000053",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "10.6754,49.7314,10.6754,49.7314",
+      "point": "10.6754,49.7314",
+      "startLcPosition": "105",
+      "display_type": "PARKING",
+      "subtitle": "Elsendorf",
+      "title": "A3 | Arnheim",
+      "coordinate": {
+        "long": "10.6754",
+        "lat": "49.7314"
+      },
+      "description": [
+        "PKW Stellplätze: 0",
+        "LKW Stellplätze: 5"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Autobahndirektion Nordbayern",
+        "",
+        "Koordinaten: 10.6754,49.7314"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-BY-000051",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "10.5802,49.7589,10.5802,49.7589",
+      "point": "10.5802,49.7589",
+      "startLcPosition": "106",
+      "display_type": "PARKING",
+      "subtitle": "Heuchelheim S",
+      "title": "A3 | Linz",
+      "coordinate": {
+        "long": "10.5802",
+        "lat": "49.7589"
+      },
+      "description": [
+        "PKW Stellplätze: 0",
+        "LKW Stellplätze: 5"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Autobahndirektion Nordbayern",
+        "",
+        "Koordinaten: 10.5802,49.7589"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-BY-000049",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "10.5414,49.76265,10.5414,49.76265",
+      "point": "10.5414,49.76265",
+      "startLcPosition": "108",
+      "display_type": "PARKING",
+      "subtitle": "Äppeleinsholz",
+      "title": "A3 | Linz",
+      "coordinate": {
+        "long": "10.5414",
+        "lat": "49.76265"
+      },
+      "description": [
+        "PKW Stellplätze: 0",
+        "LKW Stellplätze: 5"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Autobahndirektion Nordbayern",
+        "",
+        "Koordinaten: 10.5414,49.76265"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-BY-000050",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "10.5565,49.761501,10.5565,49.761501",
+      "point": "10.5565,49.761501",
+      "startLcPosition": "108",
+      "display_type": "PARKING",
+      "subtitle": "Mannlehen",
+      "title": "A3 | Arnheim",
+      "coordinate": {
+        "long": "10.5565",
+        "lat": "49.761501"
+      },
+      "description": [
+        "PKW Stellplätze: 0",
+        "LKW Stellplätze: 5"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Autobahndirektion Nordbayern",
+        "",
+        "Koordinaten: 10.5565,49.761501"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-BY-000048",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "10.52165,49.764351,10.52165,49.764351",
+      "point": "10.52165,49.764351",
+      "startLcPosition": "110",
+      "display_type": "PARKING",
+      "subtitle": "Wasserberndorf",
+      "title": "A3 | Arnheim",
+      "coordinate": {
+        "long": "10.52165",
+        "lat": "49.764351"
+      },
+      "description": [
+        "PKW Stellplätze: 0",
+        "LKW Stellplätze: 5"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Autobahndirektion Nordbayern",
+        "",
+        "Koordinaten: 10.52165,49.764351"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-BY-000045",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "10.43305,49.785801,10.43305,49.785801",
+      "point": "10.43305,49.785801",
+      "startLcPosition": "113",
+      "display_type": "PARKING",
+      "subtitle": "Obersambacher Wald Nord",
+      "title": "A3 | Arnheim",
+      "coordinate": {
+        "long": "10.43305",
+        "lat": "49.785801"
+      },
+      "description": [
+        "PKW Stellplätze: 0",
+        "LKW Stellplätze: 57"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch k.A.",
+        "",
+        "Koordinaten: 10.43305,49.785801"
+      ],
+      "lorryParkingFeatureIcons": []
+    },
+    {
+      "identifier": "DE-BY-008548",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "10.43273,49.785345,10.43273,49.785345",
+      "point": "10.43273,49.785345",
+      "startLcPosition": "113",
+      "display_type": "PARKING",
+      "subtitle": "Obersambacher Wald Süd",
+      "title": "A3 | Linz",
+      "coordinate": {
+        "long": "10.43273",
+        "lat": "49.785345"
+      },
+      "description": [
+        "PKW Stellplätze: 0",
+        "LKW Stellplätze: 56"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch k.A.",
+        "",
+        "Koordinaten: 10.43273,49.785345"
+      ],
+      "lorryParkingFeatureIcons": []
+    },
+    {
+      "identifier": "DE-BY-000044",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "10.3933,49.77655,10.3933,49.77655",
+      "point": "10.3933,49.77655",
+      "startLcPosition": "114",
+      "display_type": "PARKING",
+      "subtitle": "Wildpark",
+      "title": "A3 | Arnheim",
+      "coordinate": {
+        "long": "10.3933",
+        "lat": "49.77655"
+      },
+      "description": [
+        "PKW Stellplätze: 0",
+        "LKW Stellplätze: 6"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Autobahndirektion Nordbayern",
+        "",
+        "Koordinaten: 10.3933,49.77655"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-BY-000043",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "10.3954,49.776299,10.3954,49.776299",
+      "point": "10.3954,49.776299",
+      "startLcPosition": "114",
+      "display_type": "PARKING",
+      "subtitle": "Friedrichsberg",
+      "title": "A3 | Linz",
+      "coordinate": {
+        "long": "10.3954",
+        "lat": "49.776299"
+      },
+      "description": [
+        "PKW Stellplätze: 0",
+        "LKW Stellplätze: 6"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Autobahndirektion Nordbayern",
+        "",
+        "Koordinaten: 10.3954,49.776299"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-BY-000041",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "10.32085,49.773548,10.32085,49.773548",
+      "point": "10.32085,49.773548",
+      "startLcPosition": "116",
+      "display_type": "PARKING",
+      "subtitle": "Steigerwald-Blick",
+      "title": "A3 | Linz",
+      "coordinate": {
+        "long": "10.32085",
+        "lat": "49.773548"
+      },
+      "description": [
+        "PKW Stellplätze: 0",
+        "LKW Stellplätze: 5"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Autobahndirektion Nordbayern",
+        "",
+        "Koordinaten: 10.32085,49.773548"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-BY-000040",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "10.3098,49.776199,10.3098,49.776199",
+      "point": "10.3098,49.776199",
+      "startLcPosition": "118",
+      "display_type": "PARKING",
+      "subtitle": "Feuerbach",
+      "title": "A3 | Arnheim",
+      "coordinate": {
+        "long": "10.3098",
+        "lat": "49.776199"
+      },
+      "description": [
+        "PKW Stellplätze: 0",
+        "LKW Stellplätze: 7"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Autobahndirektion Nordbayern",
+        "",
+        "Koordinaten: 10.3098,49.776199"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-BY-000038",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "10.245889,49.779615,10.245889,49.779615",
+      "point": "10.245889,49.779615",
+      "startLcPosition": "118",
+      "display_type": "PARKING",
+      "subtitle": "Haidt S",
+      "title": "A3 | Linz",
+      "coordinate": {
+        "long": "10.245889",
+        "lat": "49.779615"
+      },
+      "description": [
+        "PKW Stellplätze: 63",
+        "LKW Stellplätze: 65"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Autobahndirektion Nordbayern",
+        "",
+        "Koordinaten: 10.245889,49.779615"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Raststätte/Restaurant",
+          "style": "",
+          "icon": "almofont almo-utensils"
+        },
+        {
+          "description": "Mülleimer",
+          "style": "",
+          "icon": "fa fa-trash"
+        },
+        {
+          "description": "Tankstelle",
+          "style": "",
+          "icon": "almofont almo-gaspump"
+        },
+        {
+          "description": "Kiosk/Geschäft",
+          "style": "",
+          "icon": "fa fa-shopping-basket"
+        },
+        {
+          "description": "Defibrillator",
+          "style": "",
+          "icon": "fa fa-heartbeat"
+        },
+        {
+          "description": "WLAN",
+          "style": "",
+          "icon": "fa fa-wifi"
+        },
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        },
+        {
+          "description": "Dusche vorhanden",
+          "style": "",
+          "icon": "fa fa-shower"
+        },
+        {
+          "description": "Toilette vorhanden",
+          "style": "",
+          "icon": "almofont almo-restroom"
+        },
+        {
+          "description": "Mautterminal",
+          "style": "",
+          "icon": "almofont almo-toll_terminal"
+        },
+        {
+          "description": "Warenautomat",
+          "style": "",
+          "icon": "almofont almo-vending_machine"
+        },
+        {
+          "description": "Geldautomat",
+          "style": "",
+          "icon": "fa fa-eur"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-BY-000039",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "10.245248,49.780626,10.245248,49.780626",
+      "point": "10.245248,49.780626",
+      "startLcPosition": "119",
+      "display_type": "PARKING",
+      "subtitle": "Haidt N",
+      "title": "A3 | Arnheim",
+      "coordinate": {
+        "long": "10.245248",
+        "lat": "49.780626"
+      },
+      "description": [
+        "PKW Stellplätze: 59",
+        "LKW Stellplätze: 66"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Autobahndirektion Nordbayern",
+        "",
+        "Koordinaten: 10.245248,49.780626"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Geschäft/Kiosk",
+          "style": "",
+          "icon": "fa fa-shopping-basket"
+        },
+        {
+          "description": "Defibrillator",
+          "style": "",
+          "icon": "fa fa-heartbeat"
+        },
+        {
+          "description": "WLAN",
+          "style": "",
+          "icon": "fa fa-wifi"
+        },
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        },
+        {
+          "description": "Mülleimer",
+          "style": "",
+          "icon": "fa fa-trash"
+        },
+        {
+          "description": "Dusche vorhanden",
+          "style": "",
+          "icon": "fa fa-shower"
+        },
+        {
+          "description": "Toilette vorhanden",
+          "style": "",
+          "icon": "almofont almo-restroom"
+        },
+        {
+          "description": "Warenautomat",
+          "style": "",
+          "icon": "almofont almo-vending_machine"
+        },
+        {
+          "description": "Geldautomat",
+          "style": "",
+          "icon": "fa fa-eur"
+        },
+        {
+          "description": "Raststätte/Restaurant",
+          "style": "",
+          "icon": "almofont almo-utensils"
+        },
+        {
+          "description": "Tankstelle",
+          "style": "",
+          "icon": "almofont almo-gaspump"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-BY-000037",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "10.18155,49.789051,10.18155,49.789051",
+      "point": "10.18155,49.789051",
+      "startLcPosition": "121",
+      "display_type": "PARKING",
+      "subtitle": "Hunnenhügel",
+      "title": "A3 | Arnheim",
+      "coordinate": {
+        "long": "10.18155",
+        "lat": "49.789051"
+      },
+      "description": [
+        "PKW Stellplätze: 0",
+        "LKW Stellplätze: 7"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Autobahndirektion Nordbayern",
+        "",
+        "Koordinaten: 10.18155,49.789051"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-BY-000035",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "10.05555,49.76078,10.05555,49.76078",
+      "point": "10.05555,49.76078",
+      "startLcPosition": "123",
+      "display_type": "PARKING",
+      "subtitle": "Sandgraben (Nord)",
+      "title": "A3 | Arnheim",
+      "coordinate": {
+        "long": "10.05555",
+        "lat": "49.76078"
+      },
+      "description": [
+        "PKW Stellplätze: 0",
+        "LKW Stellplätze: 57"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Autobahndirektion Nordbayern",
+        "",
+        "Koordinaten: 10.05555,49.76078"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        },
+        {
+          "description": "Toilette vorhanden",
+          "style": "",
+          "icon": "almofont almo-restroom"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-BY-000034",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "10.03959,49.749531,10.03959,49.749531",
+      "point": "10.03959,49.749531",
+      "startLcPosition": "123",
+      "display_type": "PARKING",
+      "subtitle": "Sandgraben (Süd)",
+      "title": "A3 | Linz",
+      "coordinate": {
+        "long": "10.03959",
+        "lat": "49.749531"
+      },
+      "description": [
+        "PKW Stellplätze: 0",
+        "LKW Stellplätze: 61"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Autobahndirektion Nordbayern",
+        "",
+        "Koordinaten: 10.03959,49.749531"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        },
+        {
+          "description": "Toilette vorhanden",
+          "style": "",
+          "icon": "almofont almo-restroom"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-BY-000032",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "9.962953,49.751897,9.962953,49.751897",
+      "point": "9.962953,49.751897",
+      "startLcPosition": "125",
+      "display_type": "PARKING",
+      "subtitle": "Würzburg Süd",
+      "title": "A3 | Linz",
+      "coordinate": {
+        "long": "9.962953",
+        "lat": "49.751897"
+      },
+      "description": [
+        "PKW Stellplätze: 0",
+        "LKW Stellplätze: 79"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch k.A.",
+        "",
+        "Koordinaten: 9.962953,49.751897"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Raststätte/Restaurant",
+          "style": "",
+          "icon": "almofont almo-utensils"
+        },
+        {
+          "description": "Tankstelle",
+          "style": "",
+          "icon": "almofont almo-gaspump"
+        },
+        {
+          "description": "Kiosk/Geschäft",
+          "style": "",
+          "icon": "fa fa-shopping-basket"
+        },
+        {
+          "description": "Defibrillator",
+          "style": "",
+          "icon": "fa fa-heartbeat"
+        },
+        {
+          "description": "WLAN",
+          "style": "",
+          "icon": "fa fa-wifi"
+        },
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        },
+        {
+          "description": "Spielplatz",
+          "style": "",
+          "icon": "almofont almo-playground"
+        },
+        {
+          "description": "Dusche vorhanden",
+          "style": "",
+          "icon": "fa fa-shower"
+        },
+        {
+          "description": "Toilette vorhanden",
+          "style": "",
+          "icon": "almofont almo-restroom"
+        },
+        {
+          "description": "Mautterminal",
+          "style": "",
+          "icon": "almofont almo-toll_terminal"
+        },
+        {
+          "description": "Warenautomat",
+          "style": "",
+          "icon": "almofont almo-vending_machine"
+        },
+        {
+          "description": "Geldautomat",
+          "style": "",
+          "icon": "fa fa-eur"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-BY-000033",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "9.96113,49.754982,9.96113,49.754982",
+      "point": "9.96113,49.754982",
+      "startLcPosition": "126",
+      "display_type": "PARKING",
+      "subtitle": "Würzburg N",
+      "title": "A3 | Arnheim",
+      "coordinate": {
+        "long": "9.96113",
+        "lat": "49.754982"
+      },
+      "description": [
+        "PKW Stellplätze: 0",
+        "LKW Stellplätze: 43"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Autobahndirektion Nordbayern",
+        "",
+        "Koordinaten: 9.96113,49.754982"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Raststätte/Restaurant",
+          "style": "",
+          "icon": "almofont almo-utensils"
+        },
+        {
+          "description": "Tankstelle",
+          "style": "",
+          "icon": "almofont almo-gaspump"
+        },
+        {
+          "description": "Kiosk/Geschäft",
+          "style": "",
+          "icon": "fa fa-shopping-basket"
+        },
+        {
+          "description": "Defibrillator",
+          "style": "",
+          "icon": "fa fa-heartbeat"
+        },
+        {
+          "description": "WLAN",
+          "style": "",
+          "icon": "fa fa-wifi"
+        },
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        },
+        {
+          "description": "Dusche vorhanden",
+          "style": "",
+          "icon": "fa fa-shower"
+        },
+        {
+          "description": "Toilette vorhanden",
+          "style": "",
+          "icon": "almofont almo-restroom"
+        },
+        {
+          "description": "Mautterminal",
+          "style": "",
+          "icon": "almofont almo-toll_terminal"
+        },
+        {
+          "description": "Warenautomat",
+          "style": "",
+          "icon": "almofont almo-vending_machine"
+        },
+        {
+          "description": "Geldautomat",
+          "style": "",
+          "icon": "fa fa-eur"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-BY-000031",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "9.715447,49.774692,9.715447,49.774692",
+      "point": "9.715447,49.774692",
+      "startLcPosition": "131",
+      "display_type": "PARKING",
+      "subtitle": "Fronberg (Nord)",
+      "title": "A3 | Arnheim",
+      "coordinate": {
+        "long": "9.715447",
+        "lat": "49.774692"
+      },
+      "description": [
+        "PKW Stellplätze: 0",
+        "LKW Stellplätze: 81"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Autobahndirektion Nordbayern",
+        "",
+        "Koordinaten: 9.715447,49.774692"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        },
+        {
+          "description": "Toilette vorhanden",
+          "style": "",
+          "icon": "almofont almo-restroom"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-BY-000030",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "9.716129,49.773493,9.716129,49.773493",
+      "point": "9.716129,49.773493",
+      "startLcPosition": "131",
+      "display_type": "PARKING",
+      "subtitle": "Fronberg (Süd)",
+      "title": "A3 | Linz",
+      "coordinate": {
+        "long": "9.716129",
+        "lat": "49.773493"
+      },
+      "description": [
+        "PKW Stellplätze: 0",
+        "LKW Stellplätze: 74"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Autobahndirektion Nordbayern",
+        "",
+        "Koordinaten: 9.716129,49.773493"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        },
+        {
+          "description": "Toilette vorhanden",
+          "style": "",
+          "icon": "almofont almo-restroom"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-BY-000019",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "9.51474,49.836138,9.51474,49.836138",
+      "point": "9.51474,49.836138",
+      "startLcPosition": "135",
+      "display_type": "PARKING",
+      "subtitle": "Kohlsberg Süd (bisher Bärenroth)",
+      "title": "A3 | Linz",
+      "coordinate": {
+        "long": "9.51474",
+        "lat": "49.836138"
+      },
+      "description": [
+        "PKW Stellplätze: 0",
+        "LKW Stellplätze: 83"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Autobahndirektion Nordbayern",
+        "",
+        "Koordinaten: 9.51474,49.836138"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        },
+        {
+          "description": "Toilette vorhanden",
+          "style": "",
+          "icon": "almofont almo-restroom"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-BY-000020",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "9.515673,49.837889,9.515673,49.837889",
+      "point": "9.515673,49.837889",
+      "startLcPosition": "135",
+      "display_type": "PARKING",
+      "subtitle": "Kohlsberg Nord (bisher Bärenroth)",
+      "title": "A3 | Arnheim",
+      "coordinate": {
+        "long": "9.515673",
+        "lat": "49.837889"
+      },
+      "description": [
+        "PKW Stellplätze: 0",
+        "LKW Stellplätze: 79"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Autobahndirektion Nordbayern",
+        "",
+        "Koordinaten: 9.515673,49.837889"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        },
+        {
+          "description": "Toilette vorhanden",
+          "style": "",
+          "icon": "almofont almo-restroom"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-BY-000014",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "9.394278,49.895929,9.394278,49.895929",
+      "point": "9.394278,49.895929",
+      "startLcPosition": "135",
+      "display_type": "PARKING",
+      "subtitle": "Spessart S",
+      "title": "A3 | Linz",
+      "coordinate": {
+        "long": "9.394278",
+        "lat": "49.895929"
+      },
+      "description": [
+        "PKW Stellplätze: 0",
+        "LKW Stellplätze: 166"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Autobahndirektion Nordbayern",
+        "",
+        "Koordinaten: 9.394278,49.895929"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Motel/Hotel",
+          "style": "",
+          "icon": "almofont almo-hotel"
+        },
+        {
+          "description": "Raststätte/Restaurant",
+          "style": "",
+          "icon": "almofont almo-utensils"
+        },
+        {
+          "description": "Tankstelle",
+          "style": "",
+          "icon": "almofont almo-gaspump"
+        },
+        {
+          "description": "Kiosk/Geschäft",
+          "style": "",
+          "icon": "fa fa-shopping-basket"
+        },
+        {
+          "description": "Defibrillator",
+          "style": "",
+          "icon": "fa fa-heartbeat"
+        },
+        {
+          "description": "WLAN",
+          "style": "",
+          "icon": "fa fa-wifi"
+        },
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        },
+        {
+          "description": "Spielplatz",
+          "style": "",
+          "icon": "almofont almo-playground"
+        },
+        {
+          "description": "Mülleimer",
+          "style": "",
+          "icon": "fa fa-trash"
+        },
+        {
+          "description": "Dusche vorhanden",
+          "style": "",
+          "icon": "fa fa-shower"
+        },
+        {
+          "description": "Toilette vorhanden",
+          "style": "",
+          "icon": "almofont almo-restroom"
+        },
+        {
+          "description": "Mautterminal",
+          "style": "",
+          "icon": "almofont almo-toll_terminal"
+        },
+        {
+          "description": "Warenautomat",
+          "style": "",
+          "icon": "almofont almo-vending_machine"
+        },
+        {
+          "description": "Geldautomat",
+          "style": "",
+          "icon": "fa fa-eur"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-BY-000013",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "9.394361,49.897584,9.394361,49.897584",
+      "point": "9.394361,49.897584",
+      "startLcPosition": "136",
+      "display_type": "PARKING",
+      "subtitle": "Spessart N",
+      "title": "A3 | Arnheim",
+      "coordinate": {
+        "long": "9.394361",
+        "lat": "49.897584"
+      },
+      "description": [
+        "PKW Stellplätze: 0",
+        "LKW Stellplätze: 62"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Autobahndirektion Nordbayern",
+        "",
+        "Koordinaten: 9.394361,49.897584"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Mülleimer",
+          "style": "",
+          "icon": "fa fa-trash"
+        },
+        {
+          "description": "Raststätte/Restaurant",
+          "style": "",
+          "icon": "almofont almo-utensils"
+        },
+        {
+          "description": "Tankstelle",
+          "style": "",
+          "icon": "almofont almo-gaspump"
+        },
+        {
+          "description": "Kiosk/Geschäft",
+          "style": "",
+          "icon": "fa fa-shopping-basket"
+        },
+        {
+          "description": "Defibrillator",
+          "style": "",
+          "icon": "fa fa-heartbeat"
+        },
+        {
+          "description": "WLAN",
+          "style": "",
+          "icon": "fa fa-wifi"
+        },
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        },
+        {
+          "description": "Spielplatz",
+          "style": "",
+          "icon": "almofont almo-playground"
+        },
+        {
+          "description": "Dusche vorhanden",
+          "style": "",
+          "icon": "fa fa-shower"
+        },
+        {
+          "description": "Toilette vorhanden",
+          "style": "",
+          "icon": "almofont almo-restroom"
+        },
+        {
+          "description": "Mautterminal",
+          "style": "",
+          "icon": "almofont almo-toll_terminal"
+        },
+        {
+          "description": "Warenautomat",
+          "style": "",
+          "icon": "almofont almo-vending_machine"
+        },
+        {
+          "description": "Geldautomat",
+          "style": "",
+          "icon": "fa fa-eur"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-BY-000004",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "9.265351,49.980515,9.265351,49.980515",
+      "point": "9.265351,49.980515",
+      "startLcPosition": "138",
+      "display_type": "PARKING",
+      "subtitle": "Röthenwald (bisher Lerchenrain S)",
+      "title": "A3 | Linz",
+      "coordinate": {
+        "long": "9.265351",
+        "lat": "49.980515"
+      },
+      "description": [
+        "PKW Stellplätze: 0",
+        "LKW Stellplätze: 50"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Autobahndirektion Nordbayern",
+        "",
+        "Koordinaten: 9.265351,49.980515"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        },
+        {
+          "description": "Toilette vorhanden",
+          "style": "",
+          "icon": "almofont almo-restroom"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-BY-000003",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "9.2454,49.99862,9.2454,49.99862",
+      "point": "9.2454,49.99862",
+      "startLcPosition": "141",
+      "display_type": "PARKING",
+      "subtitle": "Birkenhain (bisher Schafwiese N)",
+      "title": "A3 | Arnheim",
+      "coordinate": {
+        "long": "9.2454",
+        "lat": "49.99862"
+      },
+      "description": [
+        "PKW Stellplätze: 0",
+        "LKW Stellplätze: 64"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Autobahndirektion Nordbayern",
+        "",
+        "Koordinaten: 9.2454,49.99862"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        },
+        {
+          "description": "Toilette vorhanden",
+          "style": "",
+          "icon": "almofont almo-restroom"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-BY-000002",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "9.118244,49.995161,9.118244,49.995161",
+      "point": "9.118244,49.995161",
+      "startLcPosition": "147",
+      "display_type": "PARKING",
+      "subtitle": "Strietwald N",
+      "title": "A3 | Arnheim",
+      "coordinate": {
+        "long": "9.118244",
+        "lat": "49.995161"
+      },
+      "description": [
+        "PKW Stellplätze: 0",
+        "LKW Stellplätze: 22"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Autobahndirektion Nordbayern",
+        "",
+        "Koordinaten: 9.118244,49.995161"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        },
+        {
+          "description": "Toilette vorhanden",
+          "style": "",
+          "icon": "almofont almo-restroom"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-BY-000001",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "9.101738,49.990808,9.101738,49.990808",
+      "point": "9.101738,49.990808",
+      "startLcPosition": "147",
+      "display_type": "PARKING",
+      "subtitle": "Strietwald S",
+      "title": "A3 | Linz",
+      "coordinate": {
+        "long": "9.101738",
+        "lat": "49.990808"
+      },
+      "description": [
+        "PKW Stellplätze: 0",
+        "LKW Stellplätze: 27"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Autobahndirektion Nordbayern",
+        "",
+        "Koordinaten: 9.101738,49.990808"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        },
+        {
+          "description": "Toilette vorhanden",
+          "style": "",
+          "icon": "almofont almo-restroom"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-HE-300016",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "8.991597,50.002699,8.991597,50.002699",
+      "point": "8.991597,50.002699",
+      "startLcPosition": "152",
+      "display_type": "PARKING",
+      "subtitle": "Mainhausen W",
+      "title": "A3 | Linz",
+      "coordinate": {
+        "long": "8.991597",
+        "lat": "50.002699"
+      },
+      "description": [
+        "PKW Stellplätze: 22",
+        "LKW Stellplätze: 6"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Hessen Mobil",
+        "",
+        "Koordinaten: 8.991597,50.002699"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        },
+        {
+          "description": "Toilette vorhanden",
+          "style": "",
+          "icon": "almofont almo-restroom"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-HE-300017",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "8.991509,50.003713,8.991509,50.003713",
+      "point": "8.991509,50.003713",
+      "startLcPosition": "152",
+      "display_type": "PARKING",
+      "subtitle": "Mainhausen O",
+      "title": "A3 | Arnheim",
+      "coordinate": {
+        "long": "8.991509",
+        "lat": "50.003713"
+      },
+      "description": [
+        "PKW Stellplätze: 20",
+        "LKW Stellplätze: 6"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Hessen Mobil",
+        "",
+        "Koordinaten: 8.991509,50.003713"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        },
+        {
+          "description": "Toilette vorhanden",
+          "style": "",
+          "icon": "almofont almo-restroom"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-HE-300015",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "8.908833,50.056046,8.908833,50.056046",
+      "point": "8.908833,50.056046",
+      "startLcPosition": "153",
+      "display_type": "PARKING",
+      "subtitle": "Weiskirchen N",
+      "title": "A3 | Arnheim",
+      "coordinate": {
+        "long": "8.908833",
+        "lat": "50.056046"
+      },
+      "description": [
+        "PKW Stellplätze: 94",
+        "LKW Stellplätze: 78"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Hessen Mobil",
+        "",
+        "Koordinaten: 8.908833,50.056046"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Motel/Hotel",
+          "style": "",
+          "icon": "almofont almo-hotel"
+        },
+        {
+          "description": "Raststätte/Restaurant",
+          "style": "",
+          "icon": "almofont almo-utensils"
+        },
+        {
+          "description": "Tankstelle",
+          "style": "",
+          "icon": "almofont almo-gaspump"
+        },
+        {
+          "description": "Kiosk/Geschäft",
+          "style": "",
+          "icon": "fa fa-shopping-basket"
+        },
+        {
+          "description": "Defibrillator",
+          "style": "",
+          "icon": "fa fa-heartbeat"
+        },
+        {
+          "description": "WLAN",
+          "style": "",
+          "icon": "fa fa-wifi"
+        },
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        },
+        {
+          "description": "Dusche vorhanden",
+          "style": "",
+          "icon": "fa fa-shower"
+        },
+        {
+          "description": "Toilette vorhanden",
+          "style": "",
+          "icon": "almofont almo-restroom"
+        },
+        {
+          "description": "Mautterminal",
+          "style": "",
+          "icon": "almofont almo-toll_terminal"
+        },
+        {
+          "description": "Warenautomat",
+          "style": "",
+          "icon": "almofont almo-vending_machine"
+        },
+        {
+          "description": "Geldautomat",
+          "style": "",
+          "icon": "fa fa-eur"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-HE-300014",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "8.908237,50.055005,8.908237,50.055005",
+      "point": "8.908237,50.055005",
+      "startLcPosition": "153",
+      "display_type": "PARKING",
+      "subtitle": "Weiskirchen S",
+      "title": "A3 | Linz",
+      "coordinate": {
+        "long": "8.908237",
+        "lat": "50.055005"
+      },
+      "description": [
+        "PKW Stellplätze: 94",
+        "LKW Stellplätze: 50"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Hessen Mobil",
+        "",
+        "Koordinaten: 8.908237,50.055005"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Raststätte/Restaurant",
+          "style": "",
+          "icon": "almofont almo-utensils"
+        },
+        {
+          "description": "Tankstelle",
+          "style": "",
+          "icon": "almofont almo-gaspump"
+        },
+        {
+          "description": "Kiosk/Geschäft",
+          "style": "",
+          "icon": "fa fa-shopping-basket"
+        },
+        {
+          "description": "Defibrillator",
+          "style": "",
+          "icon": "fa fa-heartbeat"
+        },
+        {
+          "description": "WLAN",
+          "style": "",
+          "icon": "fa fa-wifi"
+        },
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        },
+        {
+          "description": "Spielplatz",
+          "style": "",
+          "icon": "almofont almo-playground"
+        },
+        {
+          "description": "Dusche vorhanden",
+          "style": "",
+          "icon": "fa fa-shower"
+        },
+        {
+          "description": "Toilette vorhanden",
+          "style": "",
+          "icon": "almofont almo-restroom"
+        },
+        {
+          "description": "Mautterminal",
+          "style": "",
+          "icon": "almofont almo-toll_terminal"
+        },
+        {
+          "description": "Warenautomat",
+          "style": "",
+          "icon": "almofont almo-vending_machine"
+        },
+        {
+          "description": "Geldautomat",
+          "style": "",
+          "icon": "fa fa-eur"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-HE-300013",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "8.764032,50.066976,8.764032,50.066976",
+      "point": "8.764032,50.066976",
+      "startLcPosition": "156",
+      "display_type": "PARKING",
+      "subtitle": "Hainbach O",
+      "title": "A3 | Arnheim",
+      "coordinate": {
+        "long": "8.764032",
+        "lat": "50.066976"
+      },
+      "description": [
+        "PKW Stellplätze: 40",
+        "LKW Stellplätze: 5"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Hessen Mobil",
+        "",
+        "Koordinaten: 8.764032,50.066976"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        },
+        {
+          "description": "Toilette vorhanden",
+          "style": "",
+          "icon": "almofont almo-restroom"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-HE-300012",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "8.763613,50.066046,8.763613,50.066046",
+      "point": "8.763613,50.066046",
+      "startLcPosition": "157",
+      "display_type": "PARKING",
+      "subtitle": "Hainbach W",
+      "title": "A3 | Linz",
+      "coordinate": {
+        "long": "8.763613",
+        "lat": "50.066046"
+      },
+      "description": [
+        "PKW Stellplätze: 35",
+        "LKW Stellplätze: 6"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Hessen Mobil",
+        "",
+        "Koordinaten: 8.763613,50.066046"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        },
+        {
+          "description": "Toilette vorhanden",
+          "style": "",
+          "icon": "almofont almo-restroom"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-HE-300011",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "8.634555,50.054284,8.634555,50.054284",
+      "point": "8.634555,50.054284",
+      "startLcPosition": "161",
+      "display_type": "PARKING",
+      "subtitle": "Stadtwald W",
+      "title": "A3 | Linz",
+      "coordinate": {
+        "long": "8.634555",
+        "lat": "50.054284"
+      },
+      "description": [
+        "PKW Stellplätze: 18",
+        "LKW Stellplätze: 25"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Hessen Mobil",
+        "",
+        "Koordinaten: 8.634555,50.054284"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        },
+        {
+          "description": "Toilette vorhanden",
+          "style": "",
+          "icon": "almofont almo-restroom"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-HE-300010",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "8.410983,50.042411,8.410983,50.042411",
+      "point": "8.410983,50.042411",
+      "startLcPosition": "166",
+      "display_type": "PARKING",
+      "subtitle": "Johannispfad",
+      "title": "A3 | Linz",
+      "coordinate": {
+        "long": "8.410983",
+        "lat": "50.042411"
+      },
+      "description": [
+        "PKW Stellplätze: 59",
+        "LKW Stellplätze: 27"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Hessen Mobil",
+        "",
+        "Koordinaten: 8.410983,50.042411"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        },
+        {
+          "description": "Toilette vorhanden",
+          "style": "",
+          "icon": "almofont almo-restroom"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-HE-300009",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "8.411411,50.043342,8.411411,50.043342",
+      "point": "8.411411,50.043342",
+      "startLcPosition": "166",
+      "display_type": "PARKING",
+      "subtitle": "Oberbach",
+      "title": "A3 | Arnheim",
+      "coordinate": {
+        "long": "8.411411",
+        "lat": "50.043342"
+      },
+      "description": [
+        "PKW Stellplätze: 27",
+        "LKW Stellplätze: 16"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Hessen Mobil",
+        "",
+        "Koordinaten: 8.411411,50.043342"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        },
+        {
+          "description": "Toilette vorhanden",
+          "style": "",
+          "icon": "almofont almo-restroom"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-HE-300008",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "8.352409,50.095237,8.352409,50.095237",
+      "point": "8.352409,50.095237",
+      "startLcPosition": "169",
+      "display_type": "PARKING",
+      "subtitle": "Medenbach W",
+      "title": "A3 | Linz",
+      "coordinate": {
+        "long": "8.352409",
+        "lat": "50.095237"
+      },
+      "description": [
+        "PKW Stellplätze: 63",
+        "LKW Stellplätze: 39"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Hessen Mobil",
+        "",
+        "Koordinaten: 8.352409,50.095237"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Raststätte/Restaurant",
+          "style": "",
+          "icon": "almofont almo-utensils"
+        },
+        {
+          "description": "Tankstelle",
+          "style": "",
+          "icon": "almofont almo-gaspump"
+        },
+        {
+          "description": "Kiosk/Geschäft",
+          "style": "",
+          "icon": "fa fa-shopping-basket"
+        },
+        {
+          "description": "Defibrillator",
+          "style": "",
+          "icon": "fa fa-heartbeat"
+        },
+        {
+          "description": "WLAN",
+          "style": "",
+          "icon": "fa fa-wifi"
+        },
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        },
+        {
+          "description": "Toilette vorhanden",
+          "style": "",
+          "icon": "almofont almo-restroom"
+        },
+        {
+          "description": "Warenautomat",
+          "style": "",
+          "icon": "almofont almo-vending_machine"
+        },
+        {
+          "description": "Geldautomat",
+          "style": "",
+          "icon": "fa fa-eur"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-HE-300007",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "8.35271,50.097174,8.35271,50.097174",
+      "point": "8.35271,50.097174",
+      "startLcPosition": "170",
+      "display_type": "PARKING",
+      "subtitle": "Medenbach O",
+      "title": "A3 | Arnheim",
+      "coordinate": {
+        "long": "8.35271",
+        "lat": "50.097174"
+      },
+      "description": [
+        "PKW Stellplätze: 0",
+        "LKW Stellplätze: 114"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Hessen Mobil",
+        "",
+        "Koordinaten: 8.35271,50.097174"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Raststätte/Restaurant",
+          "style": "",
+          "icon": "almofont almo-utensils"
+        },
+        {
+          "description": "Tankstelle",
+          "style": "",
+          "icon": "almofont almo-gaspump"
+        },
+        {
+          "description": "Kiosk/Geschäft",
+          "style": "",
+          "icon": "fa fa-shopping-basket"
+        },
+        {
+          "description": "Defibrillator",
+          "style": "",
+          "icon": "fa fa-heartbeat"
+        },
+        {
+          "description": "WLAN",
+          "style": "",
+          "icon": "fa fa-wifi"
+        },
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        },
+        {
+          "description": "Spielplatz",
+          "style": "",
+          "icon": "almofont almo-playground"
+        },
+        {
+          "description": "Dusche vorhanden",
+          "style": "",
+          "icon": "fa fa-shower"
+        },
+        {
+          "description": "Toilette vorhanden",
+          "style": "",
+          "icon": "almofont almo-restroom"
+        },
+        {
+          "description": "Warenautomat",
+          "style": "",
+          "icon": "almofont almo-vending_machine"
+        },
+        {
+          "description": "Geldautomat",
+          "style": "",
+          "icon": "fa fa-eur"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-HE-300006",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "8.297007,50.163732,8.297007,50.163732",
+      "point": "8.297007,50.163732",
+      "startLcPosition": "171",
+      "display_type": "PARKING",
+      "subtitle": "Theißtal W",
+      "title": "A3 | Linz",
+      "coordinate": {
+        "long": "8.297007",
+        "lat": "50.163732"
+      },
+      "description": [
+        "PKW Stellplätze: 65",
+        "LKW Stellplätze: 46"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Hessen Mobil",
+        "",
+        "Koordinaten: 8.297007,50.163732"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        },
+        {
+          "description": "Toilette vorhanden",
+          "style": "",
+          "icon": "almofont almo-restroom"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-HE-300005",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "8.292987,50.1694,8.292987,50.1694",
+      "point": "8.292987,50.1694",
+      "startLcPosition": "172",
+      "display_type": "PARKING",
+      "subtitle": "Theißtal O",
+      "title": "A3 | Arnheim",
+      "coordinate": {
+        "long": "8.292987",
+        "lat": "50.1694"
+      },
+      "description": [
+        "PKW Stellplätze: 68",
+        "LKW Stellplätze: 48"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Hessen Mobil",
+        "",
+        "Koordinaten: 8.292987,50.1694"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        },
+        {
+          "description": "Toilette vorhanden",
+          "style": "",
+          "icon": "almofont almo-restroom"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-HE-300004",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "8.235082,50.300081,8.235082,50.300081",
+      "point": "8.235082,50.300081",
+      "startLcPosition": "174",
+      "display_type": "PARKING",
+      "subtitle": "Bad Camberg W",
+      "title": "A3 | Linz",
+      "coordinate": {
+        "long": "8.235082",
+        "lat": "50.300081"
+      },
+      "description": [
+        "PKW Stellplätze: 103",
+        "LKW Stellplätze: 38"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Hessen Mobil",
+        "",
+        "Koordinaten: 8.235082,50.300081"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Motel/Hotel",
+          "style": "",
+          "icon": "almofont almo-hotel"
+        },
+        {
+          "description": "Raststätte/Restaurant",
+          "style": "",
+          "icon": "almofont almo-utensils"
+        },
+        {
+          "description": "Tankstelle",
+          "style": "",
+          "icon": "almofont almo-gaspump"
+        },
+        {
+          "description": "Kiosk/Geschäft",
+          "style": "",
+          "icon": "fa fa-shopping-basket"
+        },
+        {
+          "description": "Defibrillator",
+          "style": "",
+          "icon": "fa fa-heartbeat"
+        },
+        {
+          "description": "WLAN",
+          "style": "",
+          "icon": "fa fa-wifi"
+        },
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        },
+        {
+          "description": "Spielplatz",
+          "style": "",
+          "icon": "almofont almo-playground"
+        },
+        {
+          "description": "Dusche vorhanden",
+          "style": "",
+          "icon": "fa fa-shower"
+        },
+        {
+          "description": "Toilette vorhanden",
+          "style": "",
+          "icon": "almofont almo-restroom"
+        },
+        {
+          "description": "Mautterminal",
+          "style": "",
+          "icon": "almofont almo-toll_terminal"
+        },
+        {
+          "description": "Warenautomat",
+          "style": "",
+          "icon": "almofont almo-vending_machine"
+        },
+        {
+          "description": "Geldautomat",
+          "style": "",
+          "icon": "fa fa-eur"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-HE-300003",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "8.236501,50.301256,8.236501,50.301256",
+      "point": "8.236501,50.301256",
+      "startLcPosition": "175",
+      "display_type": "PARKING",
+      "subtitle": "Bad Camberg O",
+      "title": "A3 | Arnheim",
+      "coordinate": {
+        "long": "8.236501",
+        "lat": "50.301256"
+      },
+      "description": [
+        "PKW Stellplätze: 45",
+        "LKW Stellplätze: 38"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Hessen Mobil",
+        "",
+        "Koordinaten: 8.236501,50.301256"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Raststätte/Restaurant",
+          "style": "",
+          "icon": "almofont almo-utensils"
+        },
+        {
+          "description": "Tankstelle",
+          "style": "",
+          "icon": "almofont almo-gaspump"
+        },
+        {
+          "description": "Kiosk/Geschäft",
+          "style": "",
+          "icon": "fa fa-shopping-basket"
+        },
+        {
+          "description": "Defibrillator",
+          "style": "",
+          "icon": "fa fa-heartbeat"
+        },
+        {
+          "description": "WLAN",
+          "style": "",
+          "icon": "fa fa-wifi"
+        },
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        },
+        {
+          "description": "Spielplatz",
+          "style": "",
+          "icon": "almofont almo-playground"
+        },
+        {
+          "description": "Dusche vorhanden",
+          "style": "",
+          "icon": "fa fa-shower"
+        },
+        {
+          "description": "Toilette vorhanden",
+          "style": "",
+          "icon": "almofont almo-restroom"
+        },
+        {
+          "description": "Mautterminal",
+          "style": "",
+          "icon": "almofont almo-toll_terminal"
+        },
+        {
+          "description": "Warenautomat",
+          "style": "",
+          "icon": "almofont almo-vending_machine"
+        },
+        {
+          "description": "Geldautomat",
+          "style": "",
+          "icon": "fa fa-eur"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-HE-300001",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "8.077606,50.395313,8.077606,50.395313",
+      "point": "8.077606,50.395313",
+      "startLcPosition": "177",
+      "display_type": "PARKING",
+      "subtitle": "Limburg O",
+      "title": "A3 | Arnheim",
+      "coordinate": {
+        "long": "8.077606",
+        "lat": "50.395313"
+      },
+      "description": [
+        "PKW Stellplätze: 29",
+        "LKW Stellplätze: 32"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Hessen Mobil",
+        "",
+        "Koordinaten: 8.077606,50.395313"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Raststätte/Restaurant",
+          "style": "",
+          "icon": "almofont almo-utensils"
+        },
+        {
+          "description": "Tankstelle",
+          "style": "",
+          "icon": "almofont almo-gaspump"
+        },
+        {
+          "description": "Geschäft",
+          "style": "",
+          "icon": "fa fa-shopping-basket"
+        },
+        {
+          "description": "Defibrillator",
+          "style": "",
+          "icon": "fa fa-heartbeat"
+        },
+        {
+          "description": "WLAN",
+          "style": "",
+          "icon": "fa fa-wifi"
+        },
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        },
+        {
+          "description": "Dusche vorhanden",
+          "style": "",
+          "icon": "fa fa-shower"
+        },
+        {
+          "description": "Toilette vorhanden",
+          "style": "",
+          "icon": "almofont almo-restroom"
+        },
+        {
+          "description": "Warenautomat",
+          "style": "",
+          "icon": "almofont almo-vending_machine"
+        },
+        {
+          "description": "Geldautomat",
+          "style": "",
+          "icon": "fa fa-eur"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-RP-000028",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "7.873174,50.454618,7.873174,50.454618",
+      "point": "7.873174,50.454618",
+      "startLcPosition": "180",
+      "display_type": "PARKING",
+      "subtitle": "Heiligenroth ",
+      "title": "A3 | Linz",
+      "coordinate": {
+        "long": "7.873174",
+        "lat": "50.454618"
+      },
+      "description": [
+        "PKW Stellplätze: 81",
+        "LKW Stellplätze: 41"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Autobahn Tank & Rast Gruppe GmbH",
+        "",
+        "Koordinaten: 7.873174,50.454618"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Motel/Hotel",
+          "style": "",
+          "icon": "almofont almo-hotel"
+        },
+        {
+          "description": "Raststätte",
+          "style": "",
+          "icon": "almofont almo-utensils"
+        },
+        {
+          "description": "Tankstelle",
+          "style": "",
+          "icon": "almofont almo-gaspump"
+        },
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        },
+        {
+          "description": "Toilette vorhanden",
+          "style": "",
+          "icon": "almofont almo-restroom"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-RP-000029",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "7.928199,50.422892,7.928199,50.422892",
+      "point": "7.928199,50.422892",
+      "startLcPosition": "180",
+      "display_type": "PARKING",
+      "subtitle": "Nentershausen ",
+      "title": "A3 | Arnheim",
+      "coordinate": {
+        "long": "7.928199",
+        "lat": "50.422892"
+      },
+      "description": [
+        "PKW Stellplätze: 47",
+        "LKW Stellplätze: 9"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Autobahn Tank & Rast Gruppe GmbH",
+        "",
+        "Koordinaten: 7.928199,50.422892"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Kleinraststätte",
+          "style": "",
+          "icon": "almofont almo-utensils"
+        },
+        {
+          "description": "Kiosk/Geschäft",
+          "style": "",
+          "icon": "fa fa-shopping-basket"
+        },
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        },
+        {
+          "description": "Mülleimer",
+          "style": "",
+          "icon": "fa fa-trash"
+        },
+        {
+          "description": "Toilette vorhanden",
+          "style": "",
+          "icon": "almofont almo-restroom"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-RP-000027",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "7.850274,50.447717,7.850274,50.447717",
+      "point": "7.850274,50.447717",
+      "startLcPosition": "182",
+      "display_type": "PARKING",
+      "subtitle": "Montabaur ",
+      "title": "A3 | Arnheim",
+      "coordinate": {
+        "long": "7.850274",
+        "lat": "50.447717"
+      },
+      "description": [
+        "PKW Stellplätze: 111",
+        "LKW Stellplätze: 69"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Autobahn Tank & Rast Gruppe GmbH",
+        "",
+        "Koordinaten: 7.850274,50.447717"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Tankstelle",
+          "style": "",
+          "icon": "almofont almo-gaspump"
+        },
+        {
+          "description": "Geschäft",
+          "style": "",
+          "icon": "fa fa-shopping-basket"
+        },
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        },
+        {
+          "description": "Toilette vorhanden",
+          "style": "",
+          "icon": "almofont almo-restroom"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-RP-000025",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "7.733171,50.496654,7.733171,50.496654",
+      "point": "7.733171,50.496654",
+      "startLcPosition": "185",
+      "display_type": "PARKING",
+      "subtitle": "Welschehahn",
+      "title": "A3 | Linz",
+      "coordinate": {
+        "long": "7.733171",
+        "lat": "50.496654"
+      },
+      "description": [
+        "PKW Stellplätze: 17",
+        "LKW Stellplätze: 2"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Landesbetrieb Mobilität Rheinland-Pfalz",
+        "",
+        "Koordinaten: 7.733171,50.496654"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        },
+        {
+          "description": "Mülleimer",
+          "style": "",
+          "icon": "fa fa-trash"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-RP-000024",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "7.694188,50.521526,7.694188,50.521526",
+      "point": "7.694188,50.521526",
+      "startLcPosition": "187",
+      "display_type": "PARKING",
+      "subtitle": "Landsberg a. d. Warthe ",
+      "title": "A3 | Arnheim",
+      "coordinate": {
+        "long": "7.694188",
+        "lat": "50.521526"
+      },
+      "description": [
+        "PKW Stellplätze: 47",
+        "LKW Stellplätze: 17"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Autobahn Tank & Rast Gruppe GmbH",
+        "",
+        "Koordinaten: 7.694188,50.521526"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Restaurant/Kleinraststätte",
+          "style": "",
+          "icon": "almofont almo-utensils"
+        },
+        {
+          "description": "Geschäft",
+          "style": "",
+          "icon": "fa fa-shopping-basket"
+        },
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        },
+        {
+          "description": "Toilette vorhanden",
+          "style": "",
+          "icon": "almofont almo-restroom"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-RP-000023",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "7.674307,50.523073,7.674307,50.523073",
+      "point": "7.674307,50.523073",
+      "startLcPosition": "187",
+      "display_type": "PARKING",
+      "subtitle": "Sessenhausen ",
+      "title": "A3 | Linz",
+      "coordinate": {
+        "long": "7.674307",
+        "lat": "50.523073"
+      },
+      "description": [
+        "PKW Stellplätze: 40",
+        "LKW Stellplätze: 16"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Autobahn Tank & Rast Gruppe GmbH",
+        "",
+        "Koordinaten: 7.674307,50.523073"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Kleinraststätte",
+          "style": "",
+          "icon": "almofont almo-utensils"
+        },
+        {
+          "description": "Kiosk/Geschäft",
+          "style": "",
+          "icon": "fa fa-shopping-basket"
+        },
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        },
+        {
+          "description": "Mülleimer",
+          "style": "",
+          "icon": "fa fa-trash"
+        },
+        {
+          "description": "Toilette vorhanden",
+          "style": "",
+          "icon": "almofont almo-restroom"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-RP-000021",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "7.572293,50.555171,7.572293,50.555171",
+      "point": "7.572293,50.555171",
+      "startLcPosition": "190",
+      "display_type": "PARKING",
+      "subtitle": "Märker Wald",
+      "title": "A3 | Linz",
+      "coordinate": {
+        "long": "7.572293",
+        "lat": "50.555171"
+      },
+      "description": [
+        "PKW Stellplätze: 22",
+        "LKW Stellplätze: 25"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Landesbetrieb Mobilität Rheinland-Pfalz",
+        "",
+        "Koordinaten: 7.572293,50.555171"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        },
+        {
+          "description": "Mülleimer",
+          "style": "",
+          "icon": "fa fa-trash"
+        },
+        {
+          "description": "Toilette vorhanden",
+          "style": "",
+          "icon": "almofont almo-restroom"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-RP-000022",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "7.585202,50.54803,7.585202,50.54803",
+      "point": "7.585202,50.54803",
+      "startLcPosition": "190",
+      "display_type": "PARKING",
+      "subtitle": "Urbacher Wald ",
+      "title": "A3 | Arnheim",
+      "coordinate": {
+        "long": "7.585202",
+        "lat": "50.54803"
+      },
+      "description": [
+        "PKW Stellplätze: 52",
+        "LKW Stellplätze: 44"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Autobahn Tank & Rast Gruppe GmbH",
+        "",
+        "Koordinaten: 7.585202,50.54803"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Raststätte/Restaurant",
+          "style": "",
+          "icon": "almofont almo-utensils"
+        },
+        {
+          "description": "Tankstelle",
+          "style": "",
+          "icon": "almofont almo-gaspump"
+        },
+        {
+          "description": "Geschäft",
+          "style": "",
+          "icon": "fa fa-shopping-basket"
+        },
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        },
+        {
+          "description": "Toilette vorhanden",
+          "style": "",
+          "icon": "almofont almo-restroom"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-RP-000020",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "7.479196,50.581564,7.479196,50.581564",
+      "point": "7.479196,50.581564",
+      "startLcPosition": "193",
+      "display_type": "PARKING",
+      "subtitle": "Epgert ",
+      "title": "A3 | Arnheim",
+      "coordinate": {
+        "long": "7.479196",
+        "lat": "50.581564"
+      },
+      "description": [
+        "PKW Stellplätze: 35",
+        "LKW Stellplätze: 16"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Autobahn Tank & Rast Gruppe GmbH",
+        "",
+        "Koordinaten: 7.479196,50.581564"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        },
+        {
+          "description": "Mülleimer",
+          "style": "",
+          "icon": "fa fa-trash"
+        },
+        {
+          "description": "Toilette vorhanden",
+          "style": "",
+          "icon": "almofont almo-restroom"
+        },
+        {
+          "description": "Kleinraststätte",
+          "style": "",
+          "icon": "almofont almo-utensils"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-RP-000019",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "7.434486,50.598714,7.434486,50.598714",
+      "point": "7.434486,50.598714",
+      "startLcPosition": "193",
+      "display_type": "PARKING",
+      "subtitle": "Fernthal ",
+      "title": "A3 | Linz",
+      "coordinate": {
+        "long": "7.434486",
+        "lat": "50.598714"
+      },
+      "description": [
+        "PKW Stellplätze: 172",
+        "LKW Stellplätze: 36"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Autobahn Tank & Rast Gruppe GmbH",
+        "",
+        "Koordinaten: 7.434486,50.598714"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Restaurant/Raststätte",
+          "style": "",
+          "icon": "almofont almo-utensils"
+        },
+        {
+          "description": "Hotel/Motel",
+          "style": "",
+          "icon": "almofont almo-hotel"
+        },
+        {
+          "description": "Geschäft",
+          "style": "",
+          "icon": "fa fa-shopping-basket"
+        },
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        },
+        {
+          "description": "Toilette vorhanden",
+          "style": "",
+          "icon": "almofont almo-restroom"
+        },
+        {
+          "description": "Tankstelle",
+          "style": "",
+          "icon": "almofont almo-gaspump"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-RP-000018",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "7.418667,50.615493,7.418667,50.615493",
+      "point": "7.418667,50.615493",
+      "startLcPosition": "195",
+      "display_type": "PARKING",
+      "subtitle": "Pfaffenbach",
+      "title": "A3 | Linz",
+      "coordinate": {
+        "long": "7.418667",
+        "lat": "50.615493"
+      },
+      "description": [
+        "PKW Stellplätze: 19",
+        "LKW Stellplätze: 20"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Landesbetrieb Mobilität Rheinland-Pfalz",
+        "",
+        "Koordinaten: 7.418667,50.615493"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        },
+        {
+          "description": "Mülleimer",
+          "style": "",
+          "icon": "fa fa-trash"
+        },
+        {
+          "description": "Toilette vorhanden",
+          "style": "",
+          "icon": "almofont almo-restroom"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-RP-000017",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "7.35835,50.637138,7.35835,50.637138",
+      "point": "7.35835,50.637138",
+      "startLcPosition": "197",
+      "display_type": "PARKING",
+      "subtitle": "Hambitz",
+      "title": "A3 | Arnheim",
+      "coordinate": {
+        "long": "7.35835",
+        "lat": "50.637138"
+      },
+      "description": [
+        "PKW Stellplätze: 0",
+        "LKW Stellplätze: 4"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Landesbetrieb Mobilität Rheinland-Pfalz",
+        "",
+        "Koordinaten: 7.35835,50.637138"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Toilette vorhanden",
+          "style": "",
+          "icon": "almofont almo-restroom"
+        },
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        },
+        {
+          "description": "Mülleimer",
+          "style": "",
+          "icon": "fa fa-trash"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-NW-000106",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "7.295586,50.674325,7.295586,50.674325",
+      "point": "7.295586,50.674325",
+      "startLcPosition": "199",
+      "display_type": "PARKING",
+      "subtitle": "Logebachtal (West)",
+      "title": "A3 | Linz",
+      "coordinate": {
+        "long": "7.295586",
+        "lat": "50.674325"
+      },
+      "description": [
+        "PKW Stellplätze: 26",
+        "LKW Stellplätze: 34"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Landesbetrieb Straßenbau Nordrhein-Westfalen\r\n ",
+        "",
+        "Koordinaten: 7.295586,50.674325"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        },
+        {
+          "description": "Toilette vorhanden",
+          "style": "",
+          "icon": "almofont almo-restroom"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-NW-000105",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "7.296315,50.675099,7.296315,50.675099",
+      "point": "7.296315,50.675099",
+      "startLcPosition": "199",
+      "display_type": "PARKING",
+      "subtitle": "Logebachtal (Ost)",
+      "title": "A3 | Arnheim",
+      "coordinate": {
+        "long": "7.296315",
+        "lat": "50.675099"
+      },
+      "description": [
+        "PKW Stellplätze: 25",
+        "LKW Stellplätze: 15"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Landesbetrieb Straßenbau Nordrhein-Westfalen\r\n ",
+        "",
+        "Koordinaten: 7.296315,50.675099"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        },
+        {
+          "description": "Toilette vorhanden",
+          "style": "",
+          "icon": "almofont almo-restroom"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-NW-000098",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "7.220108,50.806784,7.220108,50.806784",
+      "point": "7.220108,50.806784",
+      "startLcPosition": "201",
+      "display_type": "PARKING",
+      "subtitle": "Siegburg West",
+      "title": "A3 | Linz",
+      "coordinate": {
+        "long": "7.220108",
+        "lat": "50.806784"
+      },
+      "description": [
+        "PKW Stellplätze: 121",
+        "LKW Stellplätze: 32"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Landesbetrieb Straßenbau Nordrhein-Westfalen\r\n ",
+        "",
+        "Koordinaten: 7.220108,50.806784"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Motel/Hotel",
+          "style": "",
+          "icon": "almofont almo-hotel"
+        },
+        {
+          "description": "Raststätte/Restaurant",
+          "style": "",
+          "icon": "almofont almo-utensils"
+        },
+        {
+          "description": "Tankstelle",
+          "style": "",
+          "icon": "almofont almo-gaspump"
+        },
+        {
+          "description": "Kiosk/Geschäft",
+          "style": "",
+          "icon": "fa fa-shopping-basket"
+        },
+        {
+          "description": "Defibrillator",
+          "style": "",
+          "icon": "fa fa-heartbeat"
+        },
+        {
+          "description": "WLAN",
+          "style": "",
+          "icon": "fa fa-wifi"
+        },
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        },
+        {
+          "description": "Mülleimer",
+          "style": "",
+          "icon": "fa fa-trash"
+        },
+        {
+          "description": "Dusche vorhanden",
+          "style": "",
+          "icon": "fa fa-shower"
+        },
+        {
+          "description": "Toilette vorhanden",
+          "style": "",
+          "icon": "almofont almo-restroom"
+        },
+        {
+          "description": "Mautterminal",
+          "style": "",
+          "icon": "almofont almo-toll_terminal"
+        },
+        {
+          "description": "Warenautomat",
+          "style": "",
+          "icon": "almofont almo-vending_machine"
+        },
+        {
+          "description": "Geldautomat",
+          "style": "",
+          "icon": "fa fa-eur"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-NW-000097",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "7.219981,50.808954,7.219981,50.808954",
+      "point": "7.219981,50.808954",
+      "startLcPosition": "202",
+      "display_type": "PARKING",
+      "subtitle": "Siegburg Ost",
+      "title": "A3 | Arnheim",
+      "coordinate": {
+        "long": "7.219981",
+        "lat": "50.808954"
+      },
+      "description": [
+        "PKW Stellplätze: 78",
+        "LKW Stellplätze: 48"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Landesbetrieb Straßenbau Nordrhein-Westfalen\r\n ",
+        "",
+        "Koordinaten: 7.219981,50.808954"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Raststätte/Restaurant",
+          "style": "",
+          "icon": "almofont almo-utensils"
+        },
+        {
+          "description": "Tankstelle",
+          "style": "",
+          "icon": "almofont almo-gaspump"
+        },
+        {
+          "description": "Kiosk/Geschäft",
+          "style": "",
+          "icon": "fa fa-shopping-basket"
+        },
+        {
+          "description": "Defibrillator",
+          "style": "",
+          "icon": "fa fa-heartbeat"
+        },
+        {
+          "description": "WLAN",
+          "style": "",
+          "icon": "fa fa-wifi"
+        },
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        },
+        {
+          "description": "Spielplatz",
+          "style": "",
+          "icon": "almofont almo-playground"
+        },
+        {
+          "description": "Mülleimer",
+          "style": "",
+          "icon": "fa fa-trash"
+        },
+        {
+          "description": "Dusche vorhanden",
+          "style": "",
+          "icon": "fa fa-shower"
+        },
+        {
+          "description": "Toilette vorhanden",
+          "style": "",
+          "icon": "almofont almo-restroom"
+        },
+        {
+          "description": "Mautterminal",
+          "style": "",
+          "icon": "almofont almo-toll_terminal"
+        },
+        {
+          "description": "Warenautomat",
+          "style": "",
+          "icon": "almofont almo-vending_machine"
+        },
+        {
+          "description": "Geldautomat",
+          "style": "",
+          "icon": "fa fa-eur"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-NW-007351",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "7.212413,50.860353,7.212413,50.860353",
+      "point": "7.212413,50.860353",
+      "startLcPosition": "204",
+      "display_type": "PARKING",
+      "subtitle": "Sülztal ",
+      "title": "A3 | Arnheim",
+      "coordinate": {
+        "long": "7.212413",
+        "lat": "50.860353"
+      },
+      "description": [
+        "PKW Stellplätze: 30",
+        "LKW Stellplätze: 43"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Landesbetrieb Straßenbau Nordrhein-Westfalen\r\n ",
+        "",
+        "Koordinaten: 7.212413,50.860353"
+      ],
+      "lorryParkingFeatureIcons": []
+    },
+    {
+      "identifier": "DE-NW-000093",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "7.15294,50.897902,7.15294,50.897902",
+      "point": "7.15294,50.897902",
+      "startLcPosition": "207",
+      "display_type": "PARKING",
+      "subtitle": "Königsforst West",
+      "title": "A3 | Linz",
+      "coordinate": {
+        "long": "7.15294",
+        "lat": "50.897902"
+      },
+      "description": [
+        "PKW Stellplätze: 52",
+        "LKW Stellplätze: 23"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Landesbetrieb Straßenbau Nordrhein-Westfalen\r\n ",
+        "",
+        "Koordinaten: 7.15294,50.897902"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Raststätte/Restaurant",
+          "style": "",
+          "icon": "almofont almo-utensils"
+        },
+        {
+          "description": "Kiosk/Geschäft",
+          "style": "",
+          "icon": "fa fa-shopping-basket"
+        },
+        {
+          "description": "Defibrillator",
+          "style": "",
+          "icon": "fa fa-heartbeat"
+        },
+        {
+          "description": "WLAN",
+          "style": "",
+          "icon": "fa fa-wifi"
+        },
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        },
+        {
+          "description": "Mülleimer",
+          "style": "",
+          "icon": "fa fa-trash"
+        },
+        {
+          "description": "Dusche vorhanden",
+          "style": "",
+          "icon": "fa fa-shower"
+        },
+        {
+          "description": "Toilette vorhanden",
+          "style": "",
+          "icon": "almofont almo-restroom"
+        },
+        {
+          "description": "Mautterminal",
+          "style": "",
+          "icon": "almofont almo-toll_terminal"
+        },
+        {
+          "description": "Warenautomat",
+          "style": "",
+          "icon": "almofont almo-vending_machine"
+        },
+        {
+          "description": "Geldautomat",
+          "style": "",
+          "icon": "fa fa-eur"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-NW-000092",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "7.151877,50.899276,7.151877,50.899276",
+      "point": "7.151877,50.899276",
+      "startLcPosition": "207",
+      "display_type": "PARKING",
+      "subtitle": "Königsforst Ost",
+      "title": "A3 | Arnheim",
+      "coordinate": {
+        "long": "7.151877",
+        "lat": "50.899276"
+      },
+      "description": [
+        "PKW Stellplätze: 26",
+        "LKW Stellplätze: 27"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Landesbetrieb Straßenbau Nordrhein-Westfalen\r\n ",
+        "",
+        "Koordinaten: 7.151877,50.899276"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Raststätte/Restaurant",
+          "style": "",
+          "icon": "almofont almo-utensils"
+        },
+        {
+          "description": "Kiosk/Geschäft",
+          "style": "",
+          "icon": "fa fa-shopping-basket"
+        },
+        {
+          "description": "WLAN",
+          "style": "",
+          "icon": "fa fa-wifi"
+        },
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        },
+        {
+          "description": "Mülleimer",
+          "style": "",
+          "icon": "fa fa-trash"
+        },
+        {
+          "description": "Dusche vorhanden",
+          "style": "",
+          "icon": "fa fa-shower"
+        },
+        {
+          "description": "Toilette vorhanden",
+          "style": "",
+          "icon": "almofont almo-restroom"
+        },
+        {
+          "description": "Mautterminal",
+          "style": "",
+          "icon": "almofont almo-toll_terminal"
+        },
+        {
+          "description": "Warenautomat",
+          "style": "",
+          "icon": "almofont almo-vending_machine"
+        },
+        {
+          "description": "Geldautomat",
+          "style": "",
+          "icon": "fa fa-eur"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-NW-000123",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "6.987803,51.085333,6.987803,51.085333",
+      "point": "6.987803,51.085333",
+      "startLcPosition": "216",
+      "display_type": "PARKING",
+      "subtitle": "Reusrather Heide",
+      "title": "A3 | Linz",
+      "coordinate": {
+        "long": "6.987803",
+        "lat": "51.085333"
+      },
+      "description": [
+        "PKW Stellplätze: 35",
+        "LKW Stellplätze: 17"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Landesbetrieb Straßenbau Nordrhein-Westfalen\r\n ",
+        "",
+        "Koordinaten: 6.987803,51.085333"
+      ],
+      "lorryParkingFeatureIcons": []
+    },
+    {
+      "identifier": "DE-NW-000122",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "6.989186,51.085684,6.989186,51.085684",
+      "point": "6.989186,51.085684",
+      "startLcPosition": "216",
+      "display_type": "PARKING",
+      "subtitle": "Reusrather Heide",
+      "title": "A3 | Arnheim",
+      "coordinate": {
+        "long": "6.989186",
+        "lat": "51.085684"
+      },
+      "description": [
+        "PKW Stellplätze: 35",
+        "LKW Stellplätze: 17"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Landesbetrieb Straßenbau Nordrhein-Westfalen\r\n ",
+        "",
+        "Koordinaten: 6.989186,51.085684"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        },
+        {
+          "description": "Toilette vorhanden",
+          "style": "",
+          "icon": "almofont almo-restroom"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-NW-000120",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "6.963882,51.15775,6.963882,51.15775",
+      "point": "6.963882,51.15775",
+      "startLcPosition": "219",
+      "display_type": "PARKING",
+      "subtitle": "Ohligser Heide Ost",
+      "title": "A3 | Arnheim",
+      "coordinate": {
+        "long": "6.963882",
+        "lat": "51.15775"
+      },
+      "description": [
+        "PKW Stellplätze: 46",
+        "LKW Stellplätze: 25"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Landesbetrieb Straßenbau Nordrhein-Westfalen\r\n ",
+        "",
+        "Koordinaten: 6.963882,51.15775"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Raststätte/Restaurant",
+          "style": "",
+          "icon": "almofont almo-utensils"
+        },
+        {
+          "description": "Kiosk/Geschäft",
+          "style": "",
+          "icon": "fa fa-shopping-basket"
+        },
+        {
+          "description": "Defibrillator",
+          "style": "",
+          "icon": "fa fa-heartbeat"
+        },
+        {
+          "description": "WLAN",
+          "style": "",
+          "icon": "fa fa-wifi"
+        },
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        },
+        {
+          "description": "Spielplatz",
+          "style": "",
+          "icon": "almofont almo-playground"
+        },
+        {
+          "description": "Mülleimer",
+          "style": "",
+          "icon": "fa fa-trash"
+        },
+        {
+          "description": "Dusche vorhanden",
+          "style": "",
+          "icon": "fa fa-shower"
+        },
+        {
+          "description": "Toilette vorhanden",
+          "style": "",
+          "icon": "almofont almo-restroom"
+        },
+        {
+          "description": "Mautterminal",
+          "style": "",
+          "icon": "almofont almo-toll_terminal"
+        },
+        {
+          "description": "Warenautomat",
+          "style": "",
+          "icon": "almofont almo-vending_machine"
+        },
+        {
+          "description": "Geldautomat",
+          "style": "",
+          "icon": "fa fa-eur"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-NW-000121",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "6.961662,51.158202,6.961662,51.158202",
+      "point": "6.961662,51.158202",
+      "startLcPosition": "220",
+      "display_type": "PARKING",
+      "subtitle": "Ohligser Heide West",
+      "title": "A3 | Linz",
+      "coordinate": {
+        "long": "6.961662",
+        "lat": "51.158202"
+      },
+      "description": [
+        "PKW Stellplätze: 68",
+        "LKW Stellplätze: 20"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Landesbetrieb Straßenbau Nordrhein-Westfalen\r\n ",
+        "",
+        "Koordinaten: 6.961662,51.158202"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Raststätte/Restaurant",
+          "style": "",
+          "icon": "almofont almo-utensils"
+        },
+        {
+          "description": "Tankstelle",
+          "style": "",
+          "icon": "almofont almo-gaspump"
+        },
+        {
+          "description": "Kiosk/Geschäft",
+          "style": "",
+          "icon": "fa fa-shopping-basket"
+        },
+        {
+          "description": "Defibrillator",
+          "style": "",
+          "icon": "fa fa-heartbeat"
+        },
+        {
+          "description": "WLAN",
+          "style": "",
+          "icon": "fa fa-wifi"
+        },
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        },
+        {
+          "description": "Spielplatz",
+          "style": "",
+          "icon": "almofont almo-playground"
+        },
+        {
+          "description": "Mülleimer",
+          "style": "",
+          "icon": "fa fa-trash"
+        },
+        {
+          "description": "Dusche vorhanden",
+          "style": "",
+          "icon": "fa fa-shower"
+        },
+        {
+          "description": "Toilette vorhanden",
+          "style": "",
+          "icon": "almofont almo-restroom"
+        },
+        {
+          "description": "Mautterminal",
+          "style": "",
+          "icon": "almofont almo-toll_terminal"
+        },
+        {
+          "description": "Warenautomat",
+          "style": "",
+          "icon": "almofont almo-vending_machine"
+        },
+        {
+          "description": "Geldautomat",
+          "style": "",
+          "icon": "fa fa-eur"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-NW-007356",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "6.909185,51.236977,6.909185,51.236977",
+      "point": "6.909185,51.236977",
+      "startLcPosition": "221",
+      "display_type": "PARKING",
+      "subtitle": "Stindertal",
+      "title": "A3 | Linz",
+      "coordinate": {
+        "long": "6.909185",
+        "lat": "51.236977"
+      },
+      "description": [
+        "PKW Stellplätze: 30",
+        "LKW Stellplätze: 25"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Landesbetrieb Straßenbau Nordrhein-Westfalen\r\n ",
+        "",
+        "Koordinaten: 6.909185,51.236977"
+      ],
+      "lorryParkingFeatureIcons": []
+    },
+    {
+      "identifier": "DE-NW-007355",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "6.911063,51.237357,6.911063,51.237357",
+      "point": "6.911063,51.237357",
+      "startLcPosition": "222",
+      "display_type": "PARKING",
+      "subtitle": "Stinderhof",
+      "title": "A3 | Arnheim",
+      "coordinate": {
+        "long": "6.911063",
+        "lat": "51.237357"
+      },
+      "description": [
+        "PKW Stellplätze: 34",
+        "LKW Stellplätze: 23"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Landesbetrieb Straßenbau Nordrhein-Westfalen\r\n ",
+        "",
+        "Koordinaten: 6.911063,51.237357"
+      ],
+      "lorryParkingFeatureIcons": []
+    },
+    {
+      "identifier": "DE-NW-000117",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "6.89077,51.326475,6.89077,51.326475",
+      "point": "6.89077,51.326475",
+      "startLcPosition": "224",
+      "display_type": "PARKING",
+      "subtitle": "Hösel Ost",
+      "title": "A3 | Arnheim",
+      "coordinate": {
+        "long": "6.89077",
+        "lat": "51.326475"
+      },
+      "description": [
+        "PKW Stellplätze: 30",
+        "LKW Stellplätze: 43"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Landesbetrieb Straßenbau Nordrhein-Westfalen\r\n ",
+        "",
+        "Koordinaten: 6.89077,51.326475"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Raststätte/Restaurant",
+          "style": "",
+          "icon": "almofont almo-utensils"
+        },
+        {
+          "description": "Tankstelle",
+          "style": "",
+          "icon": "almofont almo-gaspump"
+        },
+        {
+          "description": "Kiosk/Geschäft",
+          "style": "",
+          "icon": "fa fa-shopping-basket"
+        },
+        {
+          "description": "Hotel",
+          "style": "",
+          "icon": "almofont almo-hotel"
+        },
+        {
+          "description": "Defibrillator",
+          "style": "",
+          "icon": "fa fa-heartbeat"
+        },
+        {
+          "description": "WLAN",
+          "style": "",
+          "icon": "fa fa-wifi"
+        },
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        },
+        {
+          "description": "Spielplatz",
+          "style": "",
+          "icon": "almofont almo-playground"
+        },
+        {
+          "description": "Mülleimer",
+          "style": "",
+          "icon": "fa fa-trash"
+        },
+        {
+          "description": "Dusche vorhanden",
+          "style": "",
+          "icon": "fa fa-shower"
+        },
+        {
+          "description": "Toilette vorhanden",
+          "style": "",
+          "icon": "almofont almo-restroom"
+        },
+        {
+          "description": "Mautterminal",
+          "style": "",
+          "icon": "almofont almo-toll_terminal"
+        },
+        {
+          "description": "Warenautomat",
+          "style": "",
+          "icon": "almofont almo-vending_machine"
+        },
+        {
+          "description": "Geldautomat",
+          "style": "",
+          "icon": "fa fa-eur"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-NW-000116",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "6.827123,51.365941,6.827123,51.365941",
+      "point": "6.827123,51.365941",
+      "startLcPosition": "226",
+      "display_type": "PARKING",
+      "subtitle": "Entenfang",
+      "title": "A3 | Linz",
+      "coordinate": {
+        "long": "6.827123",
+        "lat": "51.365941"
+      },
+      "description": [
+        "PKW Stellplätze: 20",
+        "LKW Stellplätze: 4"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Landesbetrieb Straßenbau Nordrhein-Westfalen\r\n ",
+        "",
+        "Koordinaten: 6.827123,51.365941"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        },
+        {
+          "description": "Toilette vorhanden",
+          "style": "",
+          "icon": "almofont almo-restroom"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-NW-000115",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "6.827383,51.367254,6.827383,51.367254",
+      "point": "6.827383,51.367254",
+      "startLcPosition": "227",
+      "display_type": "PARKING",
+      "subtitle": "Stockweg",
+      "title": "A3 | Arnheim",
+      "coordinate": {
+        "long": "6.827383",
+        "lat": "51.367254"
+      },
+      "description": [
+        "PKW Stellplätze: 6",
+        "LKW Stellplätze: 5"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Landesbetrieb Straßenbau Nordrhein-Westfalen\r\n ",
+        "",
+        "Koordinaten: 6.827383,51.367254"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-NW-000114",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "6.795308,51.57795,6.795308,51.57795",
+      "point": "6.795308,51.57795",
+      "startLcPosition": "236",
+      "display_type": "PARKING",
+      "subtitle": "Sippenwies",
+      "title": "A3 | Linz",
+      "coordinate": {
+        "long": "6.795308",
+        "lat": "51.57795"
+      },
+      "description": [
+        "PKW Stellplätze: 0",
+        "LKW Stellplätze: 9"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Landesbetrieb Straßenbau Nordrhein-Westfalen\r\n ",
+        "",
+        "Koordinaten: 6.795308,51.57795"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-NW-000113",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "6.777819,51.609144,6.777819,51.609144",
+      "point": "6.777819,51.609144",
+      "startLcPosition": "238",
+      "display_type": "PARKING",
+      "subtitle": "Bergschlag",
+      "title": "A3 | Arnheim",
+      "coordinate": {
+        "long": "6.777819",
+        "lat": "51.609144"
+      },
+      "description": [
+        "PKW Stellplätze: 0",
+        "LKW Stellplätze: 10"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Landesbetrieb Straßenbau Nordrhein-Westfalen\r\n ",
+        "",
+        "Koordinaten: 6.777819,51.609144"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-NW-000111",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "6.746901,51.636633,6.746901,51.636633",
+      "point": "6.746901,51.636633",
+      "startLcPosition": "239",
+      "display_type": "PARKING",
+      "subtitle": "Hünxe Ost",
+      "title": "A3 | Arnheim",
+      "coordinate": {
+        "long": "6.746901",
+        "lat": "51.636633"
+      },
+      "description": [
+        "PKW Stellplätze: 94",
+        "LKW Stellplätze: 40"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Landesbetrieb Straßenbau Nordrhein-Westfalen\r\n ",
+        "",
+        "Koordinaten: 6.746901,51.636633"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        },
+        {
+          "description": "Spielplatz",
+          "style": "",
+          "icon": "almofont almo-playground"
+        },
+        {
+          "description": "Mülleimer",
+          "style": "",
+          "icon": "fa fa-trash"
+        },
+        {
+          "description": "Dusche vorhanden",
+          "style": "",
+          "icon": "fa fa-shower"
+        },
+        {
+          "description": "Toilette vorhanden",
+          "style": "",
+          "icon": "almofont almo-restroom"
+        },
+        {
+          "description": "Mautterminal",
+          "style": "",
+          "icon": "almofont almo-toll_terminal"
+        },
+        {
+          "description": "Warenautomat",
+          "style": "",
+          "icon": "almofont almo-vending_machine"
+        },
+        {
+          "description": "Geldautomat",
+          "style": "",
+          "icon": "fa fa-eur"
+        },
+        {
+          "description": "Motel/Hotel",
+          "style": "",
+          "icon": "almofont almo-hotel"
+        },
+        {
+          "description": "Raststätte/Restaurant",
+          "style": "",
+          "icon": "almofont almo-utensils"
+        },
+        {
+          "description": "Tankstelle",
+          "style": "",
+          "icon": "almofont almo-gaspump"
+        },
+        {
+          "description": "Kiosk/Geschäft",
+          "style": "",
+          "icon": "fa fa-shopping-basket"
+        },
+        {
+          "description": "Defibrillator",
+          "style": "",
+          "icon": "fa fa-heartbeat"
+        },
+        {
+          "description": "WLAN",
+          "style": "",
+          "icon": "fa fa-wifi"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-NW-000112",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "6.745267,51.635629,6.745267,51.635629",
+      "point": "6.745267,51.635629",
+      "startLcPosition": "239",
+      "display_type": "PARKING",
+      "subtitle": "Hünxe West",
+      "title": "A3 | Linz",
+      "coordinate": {
+        "long": "6.745267",
+        "lat": "51.635629"
+      },
+      "description": [
+        "PKW Stellplätze: 72",
+        "LKW Stellplätze: 24"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Landesbetrieb Straßenbau Nordrhein-Westfalen\r\n ",
+        "",
+        "Koordinaten: 6.745267,51.635629"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Raststätte/Restaurant",
+          "style": "",
+          "icon": "almofont almo-utensils"
+        },
+        {
+          "description": "Tankstelle",
+          "style": "",
+          "icon": "almofont almo-gaspump"
+        },
+        {
+          "description": "Kiosk/Geschäft",
+          "style": "",
+          "icon": "fa fa-shopping-basket"
+        },
+        {
+          "description": "Defibrillator",
+          "style": "",
+          "icon": "fa fa-heartbeat"
+        },
+        {
+          "description": "WLAN",
+          "style": "",
+          "icon": "fa fa-wifi"
+        },
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        },
+        {
+          "description": "Spielplatz",
+          "style": "",
+          "icon": "almofont almo-playground"
+        },
+        {
+          "description": "Mülleimer",
+          "style": "",
+          "icon": "fa fa-trash"
+        },
+        {
+          "description": "Dusche vorhanden",
+          "style": "",
+          "icon": "fa fa-shower"
+        },
+        {
+          "description": "Toilette vorhanden",
+          "style": "",
+          "icon": "almofont almo-restroom"
+        },
+        {
+          "description": "Mautterminal",
+          "style": "",
+          "icon": "almofont almo-toll_terminal"
+        },
+        {
+          "description": "Warenautomat",
+          "style": "",
+          "icon": "almofont almo-vending_machine"
+        },
+        {
+          "description": "Geldautomat",
+          "style": "",
+          "icon": "fa fa-eur"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-NW-000110",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "6.707549,51.677537,6.707549,51.677537",
+      "point": "6.707549,51.677537",
+      "startLcPosition": "241",
+      "display_type": "PARKING",
+      "subtitle": "Loher Feld",
+      "title": "A3 | Linz",
+      "coordinate": {
+        "long": "6.707549",
+        "lat": "51.677537"
+      },
+      "description": [
+        "PKW Stellplätze: 24",
+        "LKW Stellplätze: 6"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Landesbetrieb Straßenbau Nordrhein-Westfalen\r\n ",
+        "",
+        "Koordinaten: 6.707549,51.677537"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-NW-000108",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "6.640767,51.705014,6.640767,51.705014",
+      "point": "6.640767,51.705014",
+      "startLcPosition": "243",
+      "display_type": "PARKING",
+      "subtitle": "Wispelt",
+      "title": "A3 | Arnheim",
+      "coordinate": {
+        "long": "6.640767",
+        "lat": "51.705014"
+      },
+      "description": [
+        "PKW Stellplätze: 36",
+        "LKW Stellplätze: 20"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Landesbetrieb Straßenbau Nordrhein-Westfalen\r\n ",
+        "",
+        "Koordinaten: 6.640767,51.705014"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        },
+        {
+          "description": "Toilette vorhanden",
+          "style": "",
+          "icon": "almofont almo-restroom"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-NW-000107",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "6.615906,51.723412,6.615906,51.723412",
+      "point": "6.615906,51.723412",
+      "startLcPosition": "245",
+      "display_type": "PARKING",
+      "subtitle": "Kranekamp",
+      "title": "A3 | Linz",
+      "coordinate": {
+        "long": "6.615906",
+        "lat": "51.723412"
+      },
+      "description": [
+        "PKW Stellplätze: 25",
+        "LKW Stellplätze: 5"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Landesbetrieb Straßenbau Nordrhein-Westfalen\r\n ",
+        "",
+        "Koordinaten: 6.615906,51.723412"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        },
+        {
+          "description": "Toilette vorhanden",
+          "style": "",
+          "icon": "almofont almo-restroom"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-NW-000104",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "6.566998,51.753824,6.566998,51.753824",
+      "point": "6.566998,51.753824",
+      "startLcPosition": "246",
+      "display_type": "PARKING",
+      "subtitle": "Lichtholz",
+      "title": "A3 | Arnheim",
+      "coordinate": {
+        "long": "6.566998",
+        "lat": "51.753824"
+      },
+      "description": [
+        "PKW Stellplätze: 31",
+        "LKW Stellplätze: 5"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Landesbetrieb Straßenbau Nordrhein-Westfalen\r\n ",
+        "",
+        "Koordinaten: 6.566998,51.753824"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-NW-000103",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "6.550349,51.762662,6.550349,51.762662",
+      "point": "6.550349,51.762662",
+      "startLcPosition": "247",
+      "display_type": "PARKING",
+      "subtitle": "Elsholt",
+      "title": "A3 | Linz",
+      "coordinate": {
+        "long": "6.550349",
+        "lat": "51.762662"
+      },
+      "description": [
+        "PKW Stellplätze: 29",
+        "LKW Stellplätze: 5"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Landesbetrieb Straßenbau Nordrhein-Westfalen\r\n ",
+        "",
+        "Koordinaten: 6.550349,51.762662"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-NW-000102",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "6.514952,51.778444,6.514952,51.778444",
+      "point": "6.514952,51.778444",
+      "startLcPosition": "248",
+      "display_type": "PARKING",
+      "subtitle": "Wittenhorst",
+      "title": "A3 | Linz",
+      "coordinate": {
+        "long": "6.514952",
+        "lat": "51.778444"
+      },
+      "description": [
+        "PKW Stellplätze: 12",
+        "LKW Stellplätze: 9"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Landesbetrieb Straßenbau Nordrhein-Westfalen\r\n ",
+        "",
+        "Koordinaten: 6.514952,51.778444"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        },
+        {
+          "description": "Toilette vorhanden",
+          "style": "",
+          "icon": "almofont almo-restroom"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-NW-000100",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "6.46347,51.809299,6.46347,51.809299",
+      "point": "6.46347,51.809299",
+      "startLcPosition": "250",
+      "display_type": "PARKING",
+      "subtitle": "Kattenhorst",
+      "title": "A3 | Linz",
+      "coordinate": {
+        "long": "6.46347",
+        "lat": "51.809299"
+      },
+      "description": [
+        "PKW Stellplätze: 22",
+        "LKW Stellplätze: 6"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Landesbetrieb Straßenbau Nordrhein-Westfalen\r\n ",
+        "",
+        "Koordinaten: 6.46347,51.809299"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-NW-000101",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "6.50722,51.782097,6.50722,51.782097",
+      "point": "6.50722,51.782097",
+      "startLcPosition": "250",
+      "display_type": "PARKING",
+      "subtitle": "Helderloh",
+      "title": "A3 | Arnheim",
+      "coordinate": {
+        "long": "6.50722",
+        "lat": "51.782097"
+      },
+      "description": [
+        "PKW Stellplätze: 29",
+        "LKW Stellplätze: 8"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Landesbetrieb Straßenbau Nordrhein-Westfalen\r\n ",
+        "",
+        "Koordinaten: 6.50722,51.782097"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        },
+        {
+          "description": "Toilette vorhanden",
+          "style": "",
+          "icon": "almofont almo-restroom"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-NW-000099",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "6.427106,51.820918,6.427106,51.820918",
+      "point": "6.427106,51.820918",
+      "startLcPosition": "252",
+      "display_type": "PARKING",
+      "subtitle": "Kälberweide",
+      "title": "A3 | Arnheim",
+      "coordinate": {
+        "long": "6.427106",
+        "lat": "51.820918"
+      },
+      "description": [
+        "PKW Stellplätze: 32",
+        "LKW Stellplätze: 5"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Landesbetrieb Straßenbau Nordrhein-Westfalen\r\n ",
+        "",
+        "Koordinaten: 6.427106,51.820918"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-NW-000096",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "6.381738,51.82734,6.381738,51.82734",
+      "point": "6.381738,51.82734",
+      "startLcPosition": "253",
+      "display_type": "PARKING",
+      "subtitle": "Millingen",
+      "title": "A3 | Linz",
+      "coordinate": {
+        "long": "6.381738",
+        "lat": "51.82734"
+      },
+      "description": [
+        "PKW Stellplätze: 27",
+        "LKW Stellplätze: 5"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Landesbetrieb Straßenbau Nordrhein-Westfalen\r\n ",
+        "",
+        "Koordinaten: 6.381738,51.82734"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-NW-000095",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "6.344189,51.842101,6.344189,51.842101",
+      "point": "6.344189,51.842101",
+      "startLcPosition": "254",
+      "display_type": "PARKING",
+      "subtitle": "Hetter",
+      "title": "A3 | Arnheim",
+      "coordinate": {
+        "long": "6.344189",
+        "lat": "51.842101"
+      },
+      "description": [
+        "PKW Stellplätze: 17",
+        "LKW Stellplätze: 5"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Landesbetrieb Straßenbau Nordrhein-Westfalen\r\n ",
+        "",
+        "Koordinaten: 6.344189,51.842101"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-NW-000094",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "6.307799,51.845882,6.307799,51.845882",
+      "point": "6.307799,51.845882",
+      "startLcPosition": "256",
+      "display_type": "PARKING",
+      "subtitle": "Löwenberger Landwehr",
+      "title": "A3 | Linz",
+      "coordinate": {
+        "long": "6.307799",
+        "lat": "51.845882"
+      },
+      "description": [
+        "PKW Stellplätze: 15",
+        "LKW Stellplätze: 5"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Landesbetrieb Straßenbau Nordrhein-Westfalen\r\n ",
+        "",
+        "Koordinaten: 6.307799,51.845882"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-NW-000091",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "6.195429,51.873994,6.195429,51.873994",
+      "point": "6.195429,51.873994",
+      "startLcPosition": "258",
+      "display_type": "PARKING",
+      "subtitle": "Hohe Heide",
+      "title": "A3 | Linz",
+      "coordinate": {
+        "long": "6.195429",
+        "lat": "51.873994"
+      },
+      "description": [
+        "PKW Stellplätze: 23",
+        "LKW Stellplätze: 6"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Landesbetrieb Straßenbau Nordrhein-Westfalen\r\n ",
+        "",
+        "Koordinaten: 6.195429,51.873994"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        },
+        {
+          "description": "Toilette vorhanden",
+          "style": "",
+          "icon": "almofont almo-restroom"
+        }
+      ]
+    },
+    {
+      "identifier": "DE-NW-000090",
+      "icon": "314-50",
+      "isBlocked": "false",
+      "future": false,
+      "extent": "6.165202,51.897773,6.165202,51.897773",
+      "point": "6.165202,51.897773",
+      "startLcPosition": "261",
+      "display_type": "PARKING",
+      "subtitle": "Knauheide",
+      "title": "A3 | Linz",
+      "coordinate": {
+        "long": "6.165202",
+        "lat": "51.897773"
+      },
+      "description": [
+        "PKW Stellplätze: 75",
+        "LKW Stellplätze: 28"
+      ],
+      "routeRecommendation": [],
+      "footer": [
+        "Betreut durch Landesbetrieb Straßenbau Nordrhein-Westfalen\r\n ",
+        "",
+        "Koordinaten: 6.165202,51.897773"
+      ],
+      "lorryParkingFeatureIcons": [
+        {
+          "description": "Raststätte/Restaurant",
+          "style": "",
+          "icon": "almofont almo-utensils"
+        },
+        {
+          "description": "Kiosk/Geschäft",
+          "style": "",
+          "icon": "fa fa-shopping-basket"
+        },
+        {
+          "description": "Picknickmöglichkeiten",
+          "style": "",
+          "icon": "almofont almo-picnic_facility"
+        },
+        {
+          "description": "Mülleimer",
+          "style": "",
+          "icon": "fa fa-trash"
+        },
+        {
+          "description": "Dusche vorhanden",
+          "style": "",
+          "icon": "fa fa-shower"
+        },
+        {
+          "description": "Toilette vorhanden",
+          "style": "",
+          "icon": "almofont almo-restroom"
+        },
+        {
+          "description": "Mautterminal",
+          "style": "",
+          "icon": "almofont almo-toll_terminal"
+        },
+        {
+          "description": "Geldautomat",
+          "style": "",
+          "icon": "fa fa-eur"
+        }
+      ]
+    }
+  ]
+}
