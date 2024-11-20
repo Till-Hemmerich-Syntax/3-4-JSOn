@@ -7,6 +7,19 @@
 
 import Foundation
 
+
+enum HTTPError : Error{
+    case invalidURL,fetchFailed
+    
+    var message: String {
+        switch self{
+        case .invalidURL: "Die URL ist ungültig"
+        case .fetchFailed: "Das Laden ist fehlgeschagen"
+        }
+    }
+}
+
+
 struct ParkingInfo: Codable, Hashable{
     var parkPlaetze : [ParkPlatz]
     
